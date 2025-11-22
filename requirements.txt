@@ -20,3 +20,5 @@ scikit-learn
 joblib
 shap
 matplotlib
+scikit-learn==1.6.1
+numpy==1.26.4
