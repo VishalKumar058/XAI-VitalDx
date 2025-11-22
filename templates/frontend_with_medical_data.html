@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>XAI-VitalDx Predictor</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 30px; background: #f4f4f4; }
+        .container { background: white; padding: 20px; border-radius: 10px; width: 520px; margin: auto; box-shadow: 0 0 10px #aaa; }
+        label { font-weight: bold; margin-top: 10px; display: block; }
+        textarea, input[type="file"] { width: 100%; margin-top: 5px; }
+        button { background: #007bff; color: white; border: none; padding: 10px; width: 100%; cursor: pointer; border-radius: 5px; margin-top: 20px; font-size: 16px; }
+        #result { margin-top: 20px; background: #e8e8e8; padding: 15px; border-radius: 5px; white-space: pre-wrap; font-size: 14px; min-height: 60px; }
+        #log { margin-top: 10px; font-size: 12px; color: #666; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>XAI-VitalDx Predictor</h2>
+
+        <label>Upload Wearable CSV</label>
+        <input type="file" id="wearable" accept=".csv" />
+
+        <label>Clinical Notes</label>
+        <textarea id="clinical_notes" rows="4"></textarea>
+
+        <label>Medications</label>
+        <textarea id="medications" rows="2"></textarea>
+
+        <button onclick="sendData()">Predict</button>
+
+        <div id="result">Results will appear here</div>
+        <div id="log"></div>
+    </div>
+
+    <script>
+        function log(msg){
+            const l = document.getElementById('log');
+            l.textContent = msg + "\n\n" + l.textContent;
+            console.log(msg);
+        }
+
+        async function sendData(){
+            const fileInput = document.getElementById("wearable");
+            const file = fileInput.files[0];
+            const notes = document.getElementById("clinical_notes").value;
+            const meds = document.getElementById("medications").value;
+            const resultDiv = document.getElementById("result");
+
+            resultDiv.textContent = "Processing...";
+            log("Preparing request...");
+
+            // Quick checks
+            if(!file){
+                resultDiv.textContent = "Please select a wearable CSV file first.";
+                log("No file selected.");
+                return;
+            }
+
+            // Debug: show selected file info
+            log("Selected file: " + file.name + " (" + file.size + " bytes)");
+
+            const formData = new FormData();
+            formData.append("wearable", file);
+            formData.append("clinical_notes", notes || "");
+            formData.append("medications", meds || "");
+
+            // Debug: list form entries (only for small files)
+            try {
+                const entries = [];
+                for (const pair of formData.entries()) {
+                    if (pair[0] === "wearable") entries.push(["wearable", pair[1].name || "BLOB"]);
+                    else entries.push(pair);
+                }
+                log("FormData entries: " + JSON.stringify(entries));
+            } catch (err){
+                log("Could not list FormData entries: " + err);
+            }
+
+            try {
+                const resp = await fetch("http://127.0.0.1:5000/predict", {
+                            method: "POST",
+                            body: formData
+                    });
+                
+
+
+                log("HTTP status: " + resp.status + " " + resp.statusText);
+
+                // get text first to debug bad JSON
+                const text = await resp.text();
+                log("Raw response text (first 500 chars):\n" + text.slice(0,500));
+
+                // try parse JSON
+                let data;
+                try {
+                    data = JSON.parse(text);
+                } catch (err){
+                    resultDiv.textContent = "Failed to parse JSON from server.";
+                    log("JSON parse error: " + err);
+                    return;
+                }
+
+                log("Parsed JSON received.");
+
+                if (resp.ok) {
+                    let exp = "";
+                    if (data.explanation && Array.isArray(data.explanation)) {
+                        exp = data.explanation.map(e => {
+                        const val = Number(e.shap_value);
+                        return `${e.feature}: ${isNaN(val) ? "0.0000" : val.toFixed(4)}`;
+                    }).join("\n");
+                }
+
+                let probs = "";
+                if (data.probabilities) {
+                probs = data.probabilities.map((p,i) =>
+                `C${i}:${(Number(p)*100).toFixed(1)}%`
+                    ).join("  ");
+                }
+
+    // ⭐ NEW: Added narrative explanation
+                resultDiv.textContent =
+                `Prediction: ${data.prediction}\n\n` +
+                `Explanation:\n${data.narrative || "No explanation available."}\n\n` +
+                `Probabilities: ${probs}\n\n` +
+                `Top SHAP Contributions:\n${exp}`;
+
+                log("Displayed results.");
+                }
+                 else {
+                    resultDiv.textContent = "Error: " + (data.error || "unknown");
+                    log("Server returned error: " + JSON.stringify(data));
+                }
+            } catch (err) {
+                resultDiv.textContent = "Network or parsing error: " + err.message;
+                log("Network error: " + err);
+            }
+        }
+    </script>
+</body>
+</html>

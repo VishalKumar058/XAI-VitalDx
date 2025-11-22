@@ -1,0 +1,1001 @@
+HeartRate,SpO2,SleepHours,BP_Systolic,BP_Diastolic,Steps,ClinicalNotes,Medication,ConditionLabel
+88,97,6.0,165,108,2211,"Patient reports irregular heartbeat, nausea.",metoprolol,arrhythmia
+107,93,4.8,160,77,7462,"Patient reports dizziness, chest pain, irregular heartbeat, shortness of breath.",none,arrhythmia
+61,96,5.4,163,106,5199,"Patient reports fatigue, dizziness.",atorvastatin,hypertension
+66,85,6.0,134,103,7790,"Patient reports shortness of breath, dizziness, nausea.",lisinopril,hypertension
+106,96,7.2,116,98,7236,"Patient reports headache, shortness of breath.",atorvastatin,hypertension
+120,99,7.0,180,97,1035,"Patient reports fatigue, headache.",metoprolol,arrhythmia
+70,89,4.7,170,86,1343,"Patient reports chest pain, dizziness, fatigue.",metoprolol,CHF
+96,88,7.7,136,79,7595,"Patient reports nausea, shortness of breath, swelling in ankles, fatigue.",amlodipine,healthy
+67,97,7.6,125,105,6893,"Patient reports headache, swelling in ankles.",none,hypertension
+84,93,7.7,159,78,2755,"Patient reports dizziness, swelling in ankles, shortness of breath, blurred vision.",none,hypoxia
+109,94,7.2,161,78,1661,"Patient reports blurred vision, swelling in ankles, chest pain, headache.",amlodipine,healthy
+84,96,6.4,135,106,6957,"Patient reports headache, nausea.",amlodipine,hypertension
+83,91,7.6,152,81,6408,"Patient reports shortness of breath, swelling in ankles, headache.",lisinopril,healthy
+99,92,6.3,152,83,6726,"Patient reports nausea, fatigue.",amlodipine,CHF
+65,85,4.3,142,109,8107,"Patient reports fatigue, dizziness, irregular heartbeat.",amlodipine,hypoxia
+96,86,7.6,116,95,4471,"Patient reports blurred vision, swelling in ankles, nausea.",metoprolol,arrhythmia
+96,93,7.2,159,71,9808,"Patient reports irregular heartbeat, headache, shortness of breath, chest pain.",amlodipine,hypertension
+86,92,7.5,179,89,7716,"Patient reports chest pain, nausea, irregular heartbeat, shortness of breath.",metoprolol,arrhythmia
+100,93,7.3,167,95,1945,"Patient reports headache, dizziness, blurred vision.",metoprolol,CHF
+119,95,6.2,146,100,9653,"Patient reports nausea, headache, chest pain.",none,hypoxia
+74,96,7.6,146,81,4576,"Patient reports shortness of breath, dizziness, irregular heartbeat.",none,hypoxia
+104,98,4.4,163,100,3858,"Patient reports shortness of breath, swelling in ankles.",metoprolol,hypoxia
+66,96,4.4,140,110,5284,"Patient reports nausea, dizziness, headache, irregular heartbeat.",lisinopril,healthy
+61,94,5.5,163,92,5916,"Patient reports fatigue, shortness of breath, nausea.",amlodipine,arrhythmia
+82,95,5.2,135,95,9907,"Patient reports headache, chest pain, irregular heartbeat, nausea.",lisinopril,healthy
+82,85,4.9,134,92,3477,"Patient reports blurred vision, headache, dizziness.",metoprolol,arrhythmia
+113,92,5.4,111,95,9532,"Patient reports dizziness, fatigue, chest pain.",atorvastatin,hypoxia
+97,95,4.4,174,94,6131,"Patient reports headache, chest pain.",none,arrhythmia
+78,99,7.1,166,71,5032,"Patient reports headache, swelling in ankles, irregular heartbeat, chest pain.",none,healthy
+108,89,7.1,128,83,4272,"Patient reports fatigue, chest pain.",none,healthy
+107,87,6.4,126,86,4259,"Patient reports dizziness, fatigue, nausea.",metoprolol,arrhythmia
+100,85,4.1,137,100,8872,"Patient reports swelling in ankles, dizziness, blurred vision, shortness of breath.",lisinopril,hypoxia
+67,89,7.7,145,106,1560,"Patient reports headache, irregular heartbeat.",lisinopril,arrhythmia
+75,89,4.2,123,94,4534,"Patient reports shortness of breath, fatigue, headache.",metoprolol,hypertension
+81,97,7.9,137,95,1808,"Patient reports blurred vision, nausea, irregular heartbeat, fatigue.",amlodipine,healthy
+102,92,6.5,156,94,9856,"Patient reports dizziness, shortness of breath, irregular heartbeat.",atorvastatin,arrhythmia
+73,93,6.1,174,95,8443,"Patient reports dizziness, shortness of breath, swelling in ankles, fatigue.",metoprolol,hypertension
+115,90,5.5,164,74,4304,"Patient reports irregular heartbeat, dizziness, shortness of breath, headache.",metoprolol,CHF
+115,97,5.9,160,107,2140,"Patient reports swelling in ankles, chest pain, irregular heartbeat.",atorvastatin,CHF
+114,100,7.8,147,93,1821,"Patient reports irregular heartbeat, chest pain.",atorvastatin,healthy
+104,96,4.1,115,104,1200,"Patient reports fatigue, blurred vision, irregular heartbeat.",atorvastatin,hypertension
+60,92,6.5,149,76,5878,"Patient reports swelling in ankles, blurred vision, dizziness, fatigue.",atorvastatin,hypertension
+75,96,8.3,140,81,9820,"Patient reports swelling in ankles, headache, blurred vision.",amlodipine,CHF
+77,95,6.3,180,85,7541,"Patient reports chest pain, shortness of breath, dizziness.",amlodipine,arrhythmia
+96,96,7.8,180,91,1941,"Patient reports shortness of breath, dizziness.",none,hypertension
+110,97,7.4,180,90,2888,"Patient reports fatigue, dizziness, headache, nausea.",metoprolol,healthy
+110,100,8.1,160,75,5068,"Patient reports blurred vision, headache, chest pain, dizziness.",metoprolol,healthy
+87,94,6.4,177,95,8950,"Patient reports swelling in ankles, shortness of breath, headache, irregular heartbeat.",atorvastatin,CHF
+110,89,4.4,110,105,6502,"Patient reports blurred vision, irregular heartbeat.",amlodipine,hypertension
+84,93,6.7,150,107,7960,"Patient reports shortness of breath, fatigue.",none,hypoxia
+90,95,5.3,158,82,3273,"Patient reports chest pain, headache, blurred vision.",atorvastatin,CHF
+120,89,5.7,144,94,3485,"Patient reports swelling in ankles, nausea, fatigue, blurred vision.",atorvastatin,hypertension
+95,95,8.2,123,74,7242,"Patient reports dizziness, irregular heartbeat, nausea, fatigue.",metoprolol,arrhythmia
+74,92,8.4,126,74,9131,"Patient reports fatigue, shortness of breath, nausea.",none,arrhythmia
+117,86,5.6,123,76,7028,"Patient reports fatigue, irregular heartbeat, swelling in ankles, shortness of breath.",lisinopril,healthy
+88,96,6.4,175,94,4781,"Patient reports dizziness, headache.",none,arrhythmia
+80,97,7.5,170,84,3643,"Patient reports fatigue, shortness of breath.",lisinopril,hypertension
+88,85,5.7,117,107,3414,"Patient reports irregular heartbeat, headache, nausea, shortness of breath.",metoprolol,CHF
+70,95,4.5,125,109,5893,"Patient reports chest pain, shortness of breath.",metoprolol,arrhythmia
+69,95,5.9,116,82,5420,"Patient reports swelling in ankles, blurred vision.",metoprolol,hypertension
+103,97,6.7,176,108,7172,"Patient reports dizziness, swelling in ankles, nausea, blurred vision.",metoprolol,hypertension
+74,95,7.2,115,76,9331,"Patient reports dizziness, fatigue, irregular heartbeat, blurred vision.",metoprolol,hypertension
+110,90,6.6,160,84,5230,"Patient reports irregular heartbeat, blurred vision, dizziness, shortness of breath.",atorvastatin,hypoxia
+66,100,7.0,122,91,9283,"Patient reports headache, swelling in ankles, blurred vision.",lisinopril,healthy
+98,100,5.0,151,108,6547,"Patient reports swelling in ankles, irregular heartbeat, chest pain, headache.",none,hypertension
+111,98,6.4,180,100,8638,"Patient reports blurred vision, irregular heartbeat, shortness of breath.",none,hypoxia
+102,85,7.2,176,96,7249,"Patient reports chest pain, swelling in ankles.",amlodipine,arrhythmia
+99,93,7.7,173,92,4903,"Patient reports chest pain, irregular heartbeat, dizziness, fatigue.",atorvastatin,CHF
+96,88,5.4,174,80,4161,"Patient reports nausea, swelling in ankles, fatigue, irregular heartbeat.",none,hypertension
+87,91,7.8,121,83,5113,"Patient reports chest pain, irregular heartbeat.",amlodipine,hypoxia
+83,94,8.1,152,83,1456,"Patient reports shortness of breath, headache.",metoprolol,hypoxia
+113,85,7.3,146,110,3144,"Patient reports irregular heartbeat, dizziness, headache, chest pain.",atorvastatin,hypoxia
+69,97,7.3,178,101,9514,"Patient reports blurred vision, headache.",metoprolol,hypoxia
+116,85,6.4,122,89,9346,"Patient reports shortness of breath, swelling in ankles, dizziness.",amlodipine,hypertension
+98,91,8.5,119,73,1965,"Patient reports shortness of breath, fatigue.",none,hypertension
+105,93,8.3,134,81,8740,"Patient reports blurred vision, irregular heartbeat, fatigue.",lisinopril,arrhythmia
+66,85,4.2,172,84,3132,"Patient reports swelling in ankles, dizziness, fatigue.",none,arrhythmia
+106,100,4.6,114,89,1903,"Patient reports chest pain, irregular heartbeat, nausea, blurred vision.",amlodipine,hypoxia
+94,88,7.6,166,77,6088,"Patient reports dizziness, nausea, headache.",lisinopril,arrhythmia
+65,88,5.3,125,100,5466,"Patient reports blurred vision, chest pain, swelling in ankles.",lisinopril,healthy
+71,89,8.3,179,91,8673,"Patient reports blurred vision, irregular heartbeat, headache, swelling in ankles.",metoprolol,CHF
+100,96,7.4,123,80,8375,"Patient reports blurred vision, headache, chest pain.",lisinopril,CHF
+102,92,8.0,175,70,7383,"Patient reports fatigue, swelling in ankles, irregular heartbeat.",none,CHF
+85,89,4.3,153,102,4087,"Patient reports fatigue, headache.",amlodipine,hypertension
+62,97,4.7,121,70,2277,"Patient reports dizziness, nausea.",amlodipine,arrhythmia
+91,87,7.6,180,72,5952,"Patient reports shortness of breath, fatigue, irregular heartbeat, swelling in ankles.",none,CHF
+114,96,7.1,112,100,7594,"Patient reports dizziness, irregular heartbeat, nausea, chest pain.",metoprolol,CHF
+102,93,8.3,176,83,2778,"Patient reports blurred vision, fatigue, shortness of breath, swelling in ankles.",atorvastatin,CHF
+97,98,7.9,157,84,4047,"Patient reports shortness of breath, blurred vision, fatigue, nausea.",lisinopril,CHF
+69,100,4.7,144,105,3913,"Patient reports fatigue, headache.",amlodipine,healthy
+60,85,7.6,165,75,8407,"Patient reports nausea, irregular heartbeat, shortness of breath, swelling in ankles.",atorvastatin,CHF
+77,98,4.2,176,97,8585,"Patient reports headache, irregular heartbeat, nausea.",none,CHF
+69,98,6.2,118,82,2550,"Patient reports swelling in ankles, blurred vision, fatigue.",amlodipine,healthy
+100,90,8.0,118,87,8106,"Patient reports irregular heartbeat, swelling in ankles.",amlodipine,hypertension
+86,89,5.1,165,72,7473,"Patient reports nausea, chest pain, irregular heartbeat.",none,healthy
+83,89,6.9,156,90,1575,"Patient reports shortness of breath, headache, fatigue, swelling in ankles.",lisinopril,arrhythmia
+75,89,5.7,116,87,7418,"Patient reports headache, fatigue, dizziness.",metoprolol,CHF
+113,97,6.9,125,92,4231,"Patient reports blurred vision, chest pain.",none,hypoxia
+120,88,5.9,127,94,6016,"Patient reports chest pain, fatigue.",lisinopril,arrhythmia
+83,86,5.4,148,97,8141,"Patient reports shortness of breath, nausea, blurred vision.",lisinopril,hypertension
+108,90,6.7,111,85,1061,"Patient reports swelling in ankles, nausea, dizziness.",none,healthy
+76,95,6.4,156,90,1362,"Patient reports shortness of breath, swelling in ankles, headache.",amlodipine,hypoxia
+81,86,6.5,174,89,7234,"Patient reports irregular heartbeat, fatigue, blurred vision, swelling in ankles.",amlodipine,hypertension
+64,99,5.2,132,77,2228,"Patient reports headache, chest pain, irregular heartbeat, dizziness.",none,healthy
+62,94,8.3,132,94,7039,"Patient reports irregular heartbeat, nausea, chest pain, swelling in ankles.",lisinopril,hypertension
+113,90,7.6,151,79,8672,"Patient reports headache, fatigue, blurred vision, irregular heartbeat.",atorvastatin,healthy
+86,96,7.6,125,89,7967,"Patient reports dizziness, chest pain, headache, fatigue.",none,hypertension
+116,90,7.3,172,79,9503,"Patient reports dizziness, shortness of breath.",amlodipine,hypertension
+95,86,7.7,158,79,2132,"Patient reports irregular heartbeat, fatigue, blurred vision, dizziness.",none,hypoxia
+88,96,4.1,155,86,5403,"Patient reports dizziness, fatigue, chest pain.",none,arrhythmia
+86,89,7.6,113,77,7957,"Patient reports swelling in ankles, chest pain.",lisinopril,CHF
+69,89,8.4,115,88,3449,"Patient reports chest pain, dizziness.",metoprolol,CHF
+114,96,7.1,144,100,6310,"Patient reports headache, swelling in ankles.",atorvastatin,hypoxia
+85,93,4.7,130,92,6013,"Patient reports irregular heartbeat, shortness of breath.",atorvastatin,CHF
+117,99,6.6,111,109,7387,"Patient reports shortness of breath, dizziness.",amlodipine,arrhythmia
+66,100,5.6,141,96,7344,"Patient reports dizziness, blurred vision.",amlodipine,arrhythmia
+119,91,8.1,119,81,5193,"Patient reports irregular heartbeat, dizziness, chest pain, blurred vision.",atorvastatin,hypertension
+107,88,6.1,162,95,6778,"Patient reports fatigue, nausea, shortness of breath, headache.",atorvastatin,arrhythmia
+93,95,5.1,137,106,4074,"Patient reports chest pain, nausea, swelling in ankles.",metoprolol,hypoxia
+62,88,6.5,166,78,4631,"Patient reports headache, swelling in ankles, shortness of breath.",atorvastatin,hypertension
+82,86,6.0,126,78,2973,"Patient reports swelling in ankles, fatigue, dizziness, blurred vision.",metoprolol,healthy
+78,90,6.8,119,75,8869,"Patient reports nausea, chest pain, blurred vision, headache.",lisinopril,hypertension
+77,91,7.4,169,86,8913,"Patient reports fatigue, headache, blurred vision, shortness of breath.",amlodipine,healthy
+88,100,4.9,116,93,5256,"Patient reports irregular heartbeat, nausea.",lisinopril,hypertension
+67,85,4.0,176,93,4366,"Patient reports dizziness, headache, fatigue, swelling in ankles.",none,healthy
+66,93,4.5,147,72,2965,"Patient reports fatigue, shortness of breath.",metoprolol,healthy
+82,92,7.0,158,88,9354,"Patient reports swelling in ankles, dizziness, headache.",lisinopril,hypertension
+74,95,8.1,163,93,9030,"Patient reports chest pain, fatigue, shortness of breath, headache.",atorvastatin,healthy
+66,86,8.4,149,104,1936,"Patient reports nausea, shortness of breath, headache, irregular heartbeat.",amlodipine,CHF
+83,97,6.2,173,105,1607,"Patient reports fatigue, headache, chest pain, blurred vision.",lisinopril,hypoxia
+92,87,8.1,136,109,1880,"Patient reports shortness of breath, chest pain.",metoprolol,CHF
+84,89,8.2,179,80,2322,"Patient reports headache, nausea, shortness of breath.",none,arrhythmia
+93,98,5.1,166,83,7951,"Patient reports dizziness, fatigue, headache.",metoprolol,healthy
+81,91,5.4,120,110,3938,"Patient reports swelling in ankles, dizziness, irregular heartbeat.",none,hypertension
+116,99,6.1,169,96,4498,"Patient reports swelling in ankles, chest pain, dizziness.",none,healthy
+99,88,5.7,121,108,4249,"Patient reports shortness of breath, chest pain, irregular heartbeat, fatigue.",lisinopril,arrhythmia
+116,85,7.4,163,78,1208,"Patient reports blurred vision, nausea, headache.",metoprolol,hypoxia
+85,94,4.5,150,98,5621,"Patient reports nausea, fatigue.",metoprolol,healthy
+93,98,8.2,126,76,8730,"Patient reports dizziness, blurred vision.",atorvastatin,arrhythmia
+60,87,4.2,159,109,4079,"Patient reports chest pain, dizziness, nausea.",metoprolol,arrhythmia
+72,86,6.8,124,75,7882,"Patient reports dizziness, fatigue, headache, irregular heartbeat.",lisinopril,CHF
+75,95,4.1,118,85,7998,"Patient reports blurred vision, shortness of breath, headache, swelling in ankles.",amlodipine,arrhythmia
+111,98,7.7,134,83,3756,"Patient reports swelling in ankles, irregular heartbeat.",atorvastatin,CHF
+76,100,5.3,120,83,7315,"Patient reports blurred vision, chest pain.",none,hypertension
+92,87,7.3,159,91,8388,"Patient reports fatigue, irregular heartbeat.",lisinopril,hypertension
+100,91,4.1,112,98,2029,"Patient reports headache, blurred vision, dizziness.",amlodipine,hypertension
+60,98,7.6,139,75,5632,"Patient reports chest pain, blurred vision.",atorvastatin,hypertension
+84,94,7.8,150,92,9924,"Patient reports chest pain, nausea, irregular heartbeat.",lisinopril,hypertension
+107,89,5.8,180,82,4623,"Patient reports irregular heartbeat, chest pain.",lisinopril,hypoxia
+64,96,4.4,166,98,3945,"Patient reports blurred vision, swelling in ankles, nausea, dizziness.",none,healthy
+72,91,5.0,172,99,7145,"Patient reports headache, swelling in ankles, nausea.",metoprolol,hypoxia
+105,97,4.0,125,90,9089,"Patient reports shortness of breath, dizziness.",lisinopril,healthy
+75,97,8.1,136,79,2077,"Patient reports fatigue, headache.",none,hypertension
+107,91,6.4,175,72,3275,"Patient reports blurred vision, headache.",atorvastatin,arrhythmia
+106,91,4.3,129,97,9815,"Patient reports irregular heartbeat, chest pain, headache, dizziness.",amlodipine,CHF
+91,91,5.3,151,92,1378,"Patient reports headache, blurred vision.",none,arrhythmia
+109,100,7.1,147,72,2487,"Patient reports nausea, dizziness, shortness of breath, blurred vision.",amlodipine,arrhythmia
+79,92,7.0,169,71,4712,"Patient reports shortness of breath, nausea, irregular heartbeat, chest pain.",none,hypoxia
+85,95,6.3,172,73,2794,"Patient reports chest pain, swelling in ankles.",lisinopril,CHF
+87,91,4.7,129,110,8074,"Patient reports headache, nausea.",amlodipine,arrhythmia
+102,96,4.9,158,90,4156,"Patient reports shortness of breath, blurred vision, headache, irregular heartbeat.",amlodipine,hypoxia
+72,99,8.4,127,80,1922,"Patient reports chest pain, irregular heartbeat.",lisinopril,CHF
+109,100,7.0,160,88,9901,"Patient reports swelling in ankles, irregular heartbeat.",amlodipine,hypertension
+81,95,7.7,151,78,1543,"Patient reports swelling in ankles, fatigue.",none,hypoxia
+102,95,4.3,142,99,5423,"Patient reports irregular heartbeat, chest pain.",amlodipine,healthy
+64,93,5.3,175,78,3346,"Patient reports shortness of breath, fatigue, blurred vision, swelling in ankles.",amlodipine,CHF
+82,89,7.8,138,75,2276,"Patient reports nausea, irregular heartbeat.",atorvastatin,hypertension
+61,86,6.4,110,100,2873,"Patient reports blurred vision, chest pain, fatigue, irregular heartbeat.",amlodipine,arrhythmia
+63,93,5.7,177,81,5771,"Patient reports swelling in ankles, nausea.",lisinopril,arrhythmia
+99,95,5.0,148,83,6402,"Patient reports nausea, blurred vision, irregular heartbeat, headache.",none,CHF
+85,89,5.9,137,89,2455,"Patient reports dizziness, nausea, fatigue, swelling in ankles.",atorvastatin,CHF
+77,100,6.0,150,82,4555,"Patient reports headache, shortness of breath, fatigue.",none,hypertension
+117,94,5.5,178,72,9196,"Patient reports swelling in ankles, irregular heartbeat.",metoprolol,CHF
+71,92,5.9,130,84,9076,"Patient reports irregular heartbeat, nausea, dizziness.",amlodipine,hypertension
+104,89,5.7,153,83,6937,"Patient reports fatigue, headache, swelling in ankles.",metoprolol,CHF
+80,91,7.6,136,71,6666,"Patient reports swelling in ankles, fatigue.",atorvastatin,hypertension
+91,92,8.2,120,96,9879,"Patient reports shortness of breath, swelling in ankles, irregular heartbeat, dizziness.",none,CHF
+96,98,6.0,163,94,5546,"Patient reports irregular heartbeat, chest pain.",lisinopril,healthy
+116,90,5.0,119,107,2358,"Patient reports shortness of breath, dizziness.",lisinopril,CHF
+66,97,4.5,121,84,2872,"Patient reports nausea, dizziness, blurred vision, irregular heartbeat.",lisinopril,hypertension
+65,98,4.9,151,90,6738,"Patient reports shortness of breath, irregular heartbeat.",amlodipine,arrhythmia
+73,95,7.8,136,75,6395,"Patient reports blurred vision, irregular heartbeat, dizziness, swelling in ankles.",none,hypoxia
+66,90,5.8,136,105,2990,"Patient reports chest pain, irregular heartbeat.",none,healthy
+113,90,4.3,116,86,5525,"Patient reports nausea, blurred vision.",amlodipine,arrhythmia
+103,97,5.8,167,104,7072,"Patient reports blurred vision, irregular heartbeat, fatigue, swelling in ankles.",atorvastatin,healthy
+117,99,6.3,115,94,7756,"Patient reports shortness of breath, nausea, fatigue.",none,CHF
+110,96,8.0,172,110,3292,"Patient reports chest pain, headache.",none,hypoxia
+109,100,7.1,178,99,4986,"Patient reports blurred vision, irregular heartbeat.",atorvastatin,healthy
+86,95,6.2,170,70,8619,"Patient reports nausea, irregular heartbeat, fatigue, swelling in ankles.",amlodipine,hypertension
+65,89,5.4,156,90,5274,"Patient reports swelling in ankles, irregular heartbeat, dizziness, shortness of breath.",atorvastatin,healthy
+98,97,7.0,173,95,3495,"Patient reports shortness of breath, blurred vision.",metoprolol,hypertension
+110,86,5.7,116,78,5797,"Patient reports shortness of breath, headache, blurred vision, swelling in ankles.",lisinopril,CHF
+96,95,4.9,134,93,1584,"Patient reports chest pain, headache, irregular heartbeat, nausea.",metoprolol,hypertension
+117,93,5.7,172,108,2227,"Patient reports swelling in ankles, dizziness, shortness of breath.",atorvastatin,healthy
+116,99,4.8,117,99,5739,"Patient reports nausea, dizziness, irregular heartbeat.",metoprolol,CHF
+91,95,8.3,179,71,8672,"Patient reports dizziness, nausea, irregular heartbeat.",atorvastatin,hypoxia
+97,99,4.5,141,95,5478,"Patient reports nausea, blurred vision, headache.",metoprolol,hypoxia
+104,94,5.8,172,87,2810,"Patient reports chest pain, nausea.",atorvastatin,hypoxia
+69,88,5.1,125,92,7490,"Patient reports chest pain, fatigue, dizziness, nausea.",amlodipine,hypertension
+68,88,6.3,166,98,6771,"Patient reports blurred vision, nausea, irregular heartbeat.",lisinopril,hypertension
+116,87,6.1,126,107,2856,"Patient reports dizziness, blurred vision.",none,hypoxia
+77,94,4.7,169,105,6781,"Patient reports shortness of breath, fatigue.",none,hypertension
+105,92,8.0,167,90,6249,"Patient reports dizziness, swelling in ankles, shortness of breath.",none,hypertension
+77,92,4.5,126,107,1197,"Patient reports irregular heartbeat, nausea, chest pain.",lisinopril,healthy
+66,97,5.6,161,97,3047,"Patient reports irregular heartbeat, chest pain.",lisinopril,hypertension
+101,98,5.0,127,76,9559,"Patient reports shortness of breath, nausea, headache, chest pain.",none,hypoxia
+115,99,8.1,124,98,7061,"Patient reports blurred vision, nausea, dizziness, fatigue.",none,healthy
+115,88,5.1,162,106,2609,"Patient reports blurred vision, headache, shortness of breath.",lisinopril,CHF
+110,97,5.6,159,100,2297,"Patient reports blurred vision, chest pain, headache.",none,CHF
+66,94,4.1,158,107,5803,"Patient reports swelling in ankles, shortness of breath, chest pain.",amlodipine,hypertension
+81,100,6.7,150,73,3713,"Patient reports chest pain, fatigue.",metoprolol,healthy
+108,87,5.6,164,71,5793,"Patient reports nausea, headache, shortness of breath, blurred vision.",amlodipine,arrhythmia
+76,98,4.3,153,107,6267,"Patient reports blurred vision, headache, fatigue.",none,hypertension
+81,100,5.3,120,106,5165,"Patient reports irregular heartbeat, fatigue.",metoprolol,arrhythmia
+68,89,6.4,165,98,2344,"Patient reports chest pain, irregular heartbeat, swelling in ankles.",lisinopril,hypoxia
+102,89,5.9,145,70,1889,"Patient reports blurred vision, swelling in ankles, chest pain.",amlodipine,arrhythmia
+113,88,7.7,142,105,1206,"Patient reports nausea, irregular heartbeat, dizziness.",metoprolol,CHF
+82,93,6.0,115,79,3593,"Patient reports chest pain, irregular heartbeat, blurred vision, swelling in ankles.",metoprolol,arrhythmia
+78,87,7.6,168,79,9154,"Patient reports dizziness, fatigue.",lisinopril,CHF
+72,97,7.1,144,92,3074,"Patient reports chest pain, blurred vision, shortness of breath.",none,hypertension
+117,91,4.4,174,86,8021,"Patient reports swelling in ankles, headache, dizziness.",metoprolol,CHF
+67,95,5.7,168,71,2974,"Patient reports nausea, swelling in ankles, fatigue.",none,arrhythmia
+96,85,8.0,171,106,6477,"Patient reports headache, nausea, dizziness, shortness of breath.",amlodipine,arrhythmia
+101,97,5.8,155,107,2649,"Patient reports headache, fatigue, chest pain.",atorvastatin,CHF
+60,85,5.8,150,103,5425,"Patient reports shortness of breath, dizziness, headache.",amlodipine,arrhythmia
+61,88,4.6,110,73,2205,"Patient reports shortness of breath, dizziness, irregular heartbeat, headache.",amlodipine,hypertension
+89,93,6.8,151,71,9962,"Patient reports fatigue, swelling in ankles, dizziness.",lisinopril,hypertension
+84,86,6.6,144,109,1277,"Patient reports nausea, dizziness, blurred vision, chest pain.",atorvastatin,arrhythmia
+81,88,5.0,162,96,5081,"Patient reports chest pain, dizziness.",atorvastatin,hypoxia
+97,92,6.4,131,109,2525,"Patient reports chest pain, swelling in ankles, headache.",metoprolol,CHF
+97,95,6.2,159,77,4658,"Patient reports irregular heartbeat, blurred vision, fatigue, chest pain.",atorvastatin,hypoxia
+66,90,5.5,161,73,6143,"Patient reports headache, blurred vision, fatigue.",amlodipine,healthy
+110,92,4.5,145,97,2554,"Patient reports nausea, chest pain, swelling in ankles.",none,arrhythmia
+73,95,7.1,137,104,2634,"Patient reports shortness of breath, swelling in ankles, chest pain.",atorvastatin,hypertension
+82,100,7.7,153,95,8607,"Patient reports blurred vision, shortness of breath, swelling in ankles, headache.",atorvastatin,CHF
+83,90,4.3,134,102,6117,"Patient reports blurred vision, dizziness.",amlodipine,hypoxia
+112,87,4.7,126,105,5458,"Patient reports swelling in ankles, irregular heartbeat, blurred vision, chest pain.",lisinopril,hypertension
+108,90,4.7,142,83,9320,"Patient reports irregular heartbeat, swelling in ankles.",metoprolol,CHF
+87,94,8.5,118,98,1230,"Patient reports shortness of breath, chest pain.",none,hypertension
+104,99,7.8,158,104,6209,"Patient reports headache, chest pain, dizziness, blurred vision.",atorvastatin,hypoxia
+75,95,7.7,156,75,7491,"Patient reports chest pain, dizziness, nausea, blurred vision.",atorvastatin,arrhythmia
+62,88,4.9,135,104,8697,"Patient reports blurred vision, fatigue, dizziness, nausea.",amlodipine,hypertension
+62,89,4.0,144,70,2161,"Patient reports chest pain, fatigue.",atorvastatin,hypertension
+105,99,6.3,134,77,9897,"Patient reports headache, dizziness, fatigue.",atorvastatin,hypoxia
+118,87,5.2,121,92,1766,"Patient reports chest pain, headache, fatigue, blurred vision.",amlodipine,arrhythmia
+80,87,7.8,116,104,5861,"Patient reports swelling in ankles, nausea, blurred vision.",none,hypoxia
+101,92,8.1,136,93,5772,"Patient reports fatigue, dizziness, nausea, blurred vision.",lisinopril,CHF
+71,97,4.0,171,109,5216,"Patient reports swelling in ankles, chest pain, shortness of breath, blurred vision.",none,healthy
+104,92,5.7,168,80,7525,"Patient reports irregular heartbeat, chest pain, blurred vision, nausea.",atorvastatin,arrhythmia
+109,91,5.1,144,72,9894,"Patient reports fatigue, swelling in ankles, chest pain, headache.",metoprolol,hypoxia
+117,93,6.4,114,102,9529,"Patient reports blurred vision, irregular heartbeat, shortness of breath.",amlodipine,hypertension
+110,90,7.8,119,96,3266,"Patient reports dizziness, swelling in ankles, chest pain.",metoprolol,healthy
+113,96,5.8,171,88,7373,"Patient reports swelling in ankles, fatigue, shortness of breath, chest pain.",none,CHF
+87,87,5.4,174,87,9849,"Patient reports fatigue, irregular heartbeat, swelling in ankles.",metoprolol,arrhythmia
+68,90,7.9,146,70,8565,"Patient reports chest pain, swelling in ankles, dizziness.",metoprolol,healthy
+106,95,8.0,152,99,5737,"Patient reports chest pain, fatigue.",amlodipine,hypoxia
+72,87,8.2,119,80,6252,"Patient reports swelling in ankles, irregular heartbeat, dizziness.",amlodipine,arrhythmia
+119,98,5.2,121,95,7322,"Patient reports nausea, blurred vision.",amlodipine,CHF
+65,90,6.5,174,73,5688,"Patient reports shortness of breath, chest pain, fatigue, blurred vision.",amlodipine,hypoxia
+99,88,6.0,133,86,5523,"Patient reports swelling in ankles, shortness of breath, irregular heartbeat.",metoprolol,healthy
+86,87,4.9,125,87,9332,"Patient reports swelling in ankles, blurred vision, shortness of breath.",none,healthy
+105,96,6.9,176,92,8686,"Patient reports fatigue, chest pain, swelling in ankles.",atorvastatin,hypoxia
+101,86,4.9,129,85,6557,"Patient reports blurred vision, fatigue, chest pain.",none,CHF
+79,89,7.1,117,108,8266,"Patient reports irregular heartbeat, swelling in ankles.",none,hypertension
+110,87,6.2,144,89,2689,"Patient reports swelling in ankles, blurred vision, headache.",atorvastatin,hypoxia
+105,97,6.2,162,96,6385,"Patient reports swelling in ankles, fatigue, shortness of breath, blurred vision.",metoprolol,hypertension
+88,96,7.2,124,96,2818,"Patient reports dizziness, headache, shortness of breath.",metoprolol,healthy
+118,100,5.3,158,86,8909,"Patient reports nausea, irregular heartbeat, shortness of breath, headache.",none,arrhythmia
+88,93,8.0,173,84,4090,"Patient reports chest pain, swelling in ankles.",metoprolol,healthy
+68,88,5.0,133,92,6069,"Patient reports chest pain, headache, nausea.",lisinopril,arrhythmia
+65,85,5.7,119,82,9949,"Patient reports shortness of breath, dizziness.",lisinopril,hypertension
+89,99,5.9,148,76,7300,"Patient reports chest pain, shortness of breath.",metoprolol,healthy
+60,87,5.6,158,76,2465,"Patient reports dizziness, swelling in ankles, nausea.",metoprolol,healthy
+101,90,8.4,135,95,9739,"Patient reports headache, dizziness, nausea.",metoprolol,arrhythmia
+73,87,7.9,145,94,4347,"Patient reports blurred vision, dizziness, shortness of breath.",amlodipine,hypoxia
+118,99,6.9,159,86,3913,"Patient reports swelling in ankles, dizziness, chest pain.",none,healthy
+112,99,6.8,158,75,7103,"Patient reports chest pain, blurred vision, headache.",metoprolol,hypoxia
+118,98,7.7,171,80,7548,"Patient reports blurred vision, chest pain, headache, fatigue.",none,arrhythmia
+74,86,8.4,131,90,1620,"Patient reports shortness of breath, chest pain.",none,hypertension
+84,96,4.5,152,72,7841,"Patient reports swelling in ankles, blurred vision.",none,hypoxia
+75,93,6.0,125,93,8945,"Patient reports nausea, chest pain, headache, shortness of breath.",metoprolol,hypoxia
+106,88,6.3,179,96,6118,"Patient reports shortness of breath, fatigue, dizziness, swelling in ankles.",atorvastatin,arrhythmia
+105,92,5.3,154,70,3936,"Patient reports shortness of breath, dizziness.",amlodipine,hypoxia
+95,86,6.4,131,73,6558,"Patient reports headache, dizziness.",amlodipine,hypoxia
+74,86,4.8,168,70,5137,"Patient reports shortness of breath, irregular heartbeat, dizziness.",metoprolol,hypoxia
+83,97,5.3,114,104,3565,"Patient reports irregular heartbeat, nausea, dizziness.",atorvastatin,hypertension
+87,92,6.1,130,80,9801,"Patient reports irregular heartbeat, dizziness, swelling in ankles, nausea.",metoprolol,hypertension
+117,89,5.2,178,93,3673,"Patient reports blurred vision, fatigue, irregular heartbeat, nausea.",atorvastatin,hypoxia
+72,92,5.1,173,90,7696,"Patient reports nausea, blurred vision, irregular heartbeat, shortness of breath.",amlodipine,hypoxia
+61,99,8.3,111,105,4085,"Patient reports swelling in ankles, blurred vision, irregular heartbeat.",lisinopril,CHF
+80,85,5.5,135,100,9216,"Patient reports shortness of breath, fatigue.",atorvastatin,CHF
+94,94,6.9,178,88,9608,"Patient reports blurred vision, chest pain.",lisinopril,hypoxia
+114,89,4.4,151,90,9601,"Patient reports fatigue, irregular heartbeat.",lisinopril,hypertension
+96,89,7.7,175,91,6894,"Patient reports swelling in ankles, blurred vision, headache.",metoprolol,arrhythmia
+68,86,4.6,165,95,2044,"Patient reports chest pain, dizziness, fatigue, nausea.",atorvastatin,healthy
+61,90,7.6,159,73,3958,"Patient reports irregular heartbeat, dizziness, headache, nausea.",metoprolol,hypertension
+106,89,6.9,145,109,5392,"Patient reports dizziness, chest pain.",none,arrhythmia
+104,87,5.0,165,95,4663,"Patient reports fatigue, blurred vision, chest pain.",metoprolol,hypoxia
+91,86,5.7,126,81,4845,"Patient reports blurred vision, irregular heartbeat, swelling in ankles.",atorvastatin,hypoxia
+106,92,7.8,137,79,3971,"Patient reports chest pain, fatigue, nausea, irregular heartbeat.",amlodipine,hypertension
+95,86,7.2,115,92,2623,"Patient reports fatigue, chest pain, irregular heartbeat.",atorvastatin,arrhythmia
+64,87,6.8,117,88,2941,"Patient reports blurred vision, dizziness, irregular heartbeat, headache.",none,CHF
+61,94,8.3,140,104,3746,"Patient reports nausea, blurred vision, swelling in ankles.",none,arrhythmia
+67,85,4.4,157,85,4653,"Patient reports fatigue, nausea.",none,hypoxia
+109,90,5.9,156,75,9564,"Patient reports swelling in ankles, dizziness, nausea.",amlodipine,hypertension
+93,93,6.9,153,109,7376,"Patient reports swelling in ankles, shortness of breath.",metoprolol,hypoxia
+110,90,6.0,172,99,9433,"Patient reports fatigue, chest pain, dizziness, nausea.",amlodipine,CHF
+107,85,7.2,172,105,8732,"Patient reports swelling in ankles, blurred vision.",none,healthy
+70,94,4.2,149,88,4557,"Patient reports fatigue, swelling in ankles.",metoprolol,arrhythmia
+63,87,6.0,116,102,3755,"Patient reports fatigue, headache.",none,arrhythmia
+106,95,7.3,127,95,4494,"Patient reports nausea, blurred vision.",atorvastatin,hypertension
+116,97,4.2,122,103,9440,"Patient reports dizziness, irregular heartbeat.",atorvastatin,arrhythmia
+63,88,5.5,111,102,7436,"Patient reports irregular heartbeat, blurred vision, nausea.",lisinopril,CHF
+99,91,4.7,138,99,6460,"Patient reports nausea, blurred vision.",metoprolol,hypertension
+79,100,5.9,110,71,3447,"Patient reports fatigue, irregular heartbeat.",atorvastatin,arrhythmia
+113,88,8.2,118,96,3972,"Patient reports chest pain, blurred vision, nausea, irregular heartbeat.",lisinopril,hypoxia
+99,96,4.4,167,87,8686,"Patient reports headache, nausea, shortness of breath, swelling in ankles.",none,CHF
+83,95,6.6,133,107,4973,"Patient reports nausea, irregular heartbeat, shortness of breath.",metoprolol,healthy
+90,98,7.2,124,82,3745,"Patient reports shortness of breath, nausea, irregular heartbeat, swelling in ankles.",atorvastatin,healthy
+68,88,6.4,152,93,4776,"Patient reports blurred vision, chest pain.",none,hypoxia
+106,85,4.9,153,70,3602,"Patient reports dizziness, swelling in ankles, irregular heartbeat.",atorvastatin,hypertension
+110,88,5.5,112,104,4981,"Patient reports dizziness, irregular heartbeat, shortness of breath.",atorvastatin,arrhythmia
+114,87,5.7,179,81,5491,"Patient reports nausea, swelling in ankles, headache.",none,arrhythmia
+61,99,6.2,126,92,9347,"Patient reports nausea, chest pain, fatigue, shortness of breath.",lisinopril,arrhythmia
+105,91,7.9,157,71,6881,"Patient reports shortness of breath, blurred vision, fatigue.",metoprolol,hypoxia
+96,97,5.7,111,96,1924,"Patient reports swelling in ankles, nausea, blurred vision, shortness of breath.",lisinopril,hypoxia
+114,99,5.0,138,105,6736,"Patient reports nausea, chest pain, swelling in ankles, irregular heartbeat.",amlodipine,hypertension
+62,94,7.5,125,98,9363,"Patient reports fatigue, blurred vision, shortness of breath, chest pain.",lisinopril,hypoxia
+68,100,7.3,115,80,5698,"Patient reports chest pain, blurred vision.",amlodipine,hypoxia
+100,90,8.1,179,73,7266,"Patient reports headache, nausea.",metoprolol,healthy
+116,88,4.4,129,109,2294,"Patient reports swelling in ankles, fatigue.",atorvastatin,CHF
+65,87,4.5,168,104,1084,"Patient reports chest pain, headache, blurred vision.",amlodipine,healthy
+60,100,5.2,151,85,4646,"Patient reports blurred vision, nausea.",amlodipine,healthy
+100,93,8.0,168,92,3377,"Patient reports fatigue, nausea, blurred vision.",amlodipine,hypoxia
+83,85,5.4,140,86,1031,"Patient reports swelling in ankles, chest pain.",metoprolol,hypertension
+68,100,8.3,137,87,1441,"Patient reports nausea, dizziness, chest pain, fatigue.",metoprolol,healthy
+91,88,5.0,177,95,3925,"Patient reports shortness of breath, swelling in ankles.",none,healthy
+112,95,5.3,126,103,5417,"Patient reports dizziness, nausea, irregular heartbeat.",none,hypoxia
+118,96,6.4,113,94,5518,"Patient reports irregular heartbeat, shortness of breath.",lisinopril,CHF
+67,93,7.8,176,86,4644,"Patient reports chest pain, swelling in ankles, headache, irregular heartbeat.",lisinopril,arrhythmia
+65,91,5.5,159,83,3619,"Patient reports irregular heartbeat, chest pain, swelling in ankles.",amlodipine,CHF
+92,93,6.1,175,82,1069,"Patient reports shortness of breath, irregular heartbeat.",lisinopril,arrhythmia
+103,98,7.4,153,78,8914,"Patient reports shortness of breath, irregular heartbeat, blurred vision, fatigue.",none,CHF
+83,89,5.5,144,79,2486,"Patient reports fatigue, headache.",none,hypoxia
+80,100,4.5,162,102,5939,"Patient reports blurred vision, fatigue, shortness of breath.",atorvastatin,CHF
+115,89,6.7,135,70,3838,"Patient reports swelling in ankles, shortness of breath, chest pain.",metoprolol,healthy
+104,93,4.2,139,105,6922,"Patient reports chest pain, nausea.",atorvastatin,arrhythmia
+106,86,6.3,135,94,6157,"Patient reports shortness of breath, headache, dizziness, irregular heartbeat.",lisinopril,hypoxia
+82,85,8.3,139,81,3321,"Patient reports dizziness, fatigue, swelling in ankles.",amlodipine,CHF
+76,87,6.4,161,96,5952,"Patient reports blurred vision, fatigue, chest pain, swelling in ankles.",metoprolol,arrhythmia
+97,98,7.9,150,81,4802,"Patient reports swelling in ankles, fatigue.",lisinopril,CHF
+92,91,7.2,169,93,5512,"Patient reports irregular heartbeat, shortness of breath.",amlodipine,hypoxia
+79,98,4.6,141,110,5854,"Patient reports blurred vision, dizziness, swelling in ankles, headache.",none,CHF
+87,94,8.4,120,71,1677,"Patient reports chest pain, headache.",none,CHF
+76,95,7.2,122,88,4268,"Patient reports headache, irregular heartbeat, chest pain.",none,arrhythmia
+101,85,8.0,159,98,9671,"Patient reports blurred vision, shortness of breath.",atorvastatin,healthy
+70,97,7.2,134,75,1703,"Patient reports blurred vision, fatigue, chest pain.",lisinopril,healthy
+117,96,5.6,158,101,7785,"Patient reports swelling in ankles, blurred vision.",none,hypoxia
+116,86,4.6,133,75,4862,"Patient reports dizziness, fatigue, swelling in ankles.",none,healthy
+77,87,4.5,119,95,4173,"Patient reports shortness of breath, fatigue, blurred vision.",atorvastatin,CHF
+73,87,7.9,159,89,1171,"Patient reports fatigue, chest pain, blurred vision, dizziness.",atorvastatin,arrhythmia
+74,90,6.4,138,93,6015,"Patient reports blurred vision, swelling in ankles, dizziness.",none,CHF
+90,88,8.4,121,105,6616,"Patient reports chest pain, nausea.",metoprolol,hypertension
+84,94,6.9,132,105,5958,"Patient reports fatigue, dizziness, swelling in ankles, headache.",none,arrhythmia
+97,100,6.0,169,77,5224,"Patient reports dizziness, nausea.",lisinopril,hypertension
+80,92,7.9,173,110,3442,"Patient reports chest pain, headache.",metoprolol,healthy
+118,85,6.4,147,104,6969,"Patient reports chest pain, swelling in ankles, fatigue, dizziness.",lisinopril,CHF
+109,95,5.4,135,94,5647,"Patient reports fatigue, blurred vision.",amlodipine,arrhythmia
+63,94,6.1,180,88,4871,"Patient reports dizziness, chest pain.",lisinopril,hypoxia
+74,97,7.6,180,95,9545,"Patient reports fatigue, chest pain.",metoprolol,hypertension
+101,93,6.2,164,79,7709,"Patient reports blurred vision, chest pain, headache.",lisinopril,hypoxia
+110,90,7.9,161,104,6444,"Patient reports chest pain, dizziness, swelling in ankles.",metoprolol,hypoxia
+71,91,4.1,171,86,8554,"Patient reports fatigue, blurred vision, headache.",amlodipine,CHF
+112,94,6.6,174,107,3111,"Patient reports blurred vision, chest pain.",none,hypertension
+61,90,5.2,154,70,5454,"Patient reports nausea, chest pain, headache, shortness of breath.",metoprolol,healthy
+108,93,7.1,152,81,4453,"Patient reports chest pain, headache, shortness of breath, fatigue.",metoprolol,CHF
+89,91,6.3,122,85,4921,"Patient reports blurred vision, irregular heartbeat.",atorvastatin,healthy
+61,87,4.4,179,91,2367,"Patient reports fatigue, nausea.",metoprolol,healthy
+64,85,4.6,119,104,6155,"Patient reports nausea, dizziness, blurred vision.",none,healthy
+101,99,4.2,156,77,6288,"Patient reports irregular heartbeat, blurred vision, headache, fatigue.",lisinopril,hypertension
+73,86,6.8,147,94,1690,"Patient reports chest pain, fatigue, shortness of breath, irregular heartbeat.",amlodipine,arrhythmia
+120,97,7.8,153,97,4207,"Patient reports nausea, fatigue.",metoprolol,healthy
+73,96,4.3,170,74,6754,"Patient reports shortness of breath, nausea, fatigue.",none,CHF
+103,100,5.9,162,85,8551,"Patient reports chest pain, headache, swelling in ankles, irregular heartbeat.",lisinopril,hypertension
+94,87,6.7,165,107,2630,"Patient reports blurred vision, dizziness.",none,CHF
+91,89,4.0,110,79,8772,"Patient reports dizziness, irregular heartbeat, swelling in ankles, fatigue.",metoprolol,hypertension
+95,88,6.8,122,74,2305,"Patient reports irregular heartbeat, nausea, fatigue.",none,arrhythmia
+111,100,7.0,119,84,2434,"Patient reports shortness of breath, dizziness, chest pain, irregular heartbeat.",metoprolol,CHF
+106,90,7.1,115,75,8450,"Patient reports shortness of breath, dizziness, headache, fatigue.",metoprolol,hypoxia
+84,87,6.6,148,97,7900,"Patient reports headache, blurred vision, chest pain.",lisinopril,arrhythmia
+118,97,6.7,177,99,5507,"Patient reports dizziness, irregular heartbeat, shortness of breath, nausea.",atorvastatin,CHF
+109,98,4.1,142,92,3962,"Patient reports chest pain, headache.",lisinopril,hypoxia
+117,94,5.6,171,84,1294,"Patient reports dizziness, headache.",metoprolol,healthy
+97,97,5.8,162,77,4866,"Patient reports nausea, blurred vision, dizziness, headache.",none,CHF
+69,91,4.2,136,71,8918,"Patient reports dizziness, swelling in ankles, shortness of breath.",atorvastatin,hypertension
+113,86,6.3,154,91,6352,"Patient reports headache, fatigue, dizziness, irregular heartbeat.",metoprolol,arrhythmia
+94,94,4.7,153,80,4509,"Patient reports chest pain, nausea.",metoprolol,hypoxia
+66,97,5.1,129,98,4508,"Patient reports shortness of breath, chest pain, dizziness, nausea.",metoprolol,hypoxia
+78,87,7.4,137,106,9395,"Patient reports shortness of breath, chest pain, swelling in ankles, headache.",amlodipine,healthy
+101,92,5.1,165,110,3897,"Patient reports shortness of breath, dizziness, headache, irregular heartbeat.",atorvastatin,hypertension
+65,96,4.5,164,84,9480,"Patient reports fatigue, shortness of breath, headache, dizziness.",lisinopril,hypertension
+70,85,7.0,139,85,7685,"Patient reports chest pain, shortness of breath, irregular heartbeat.",lisinopril,hypertension
+115,95,4.6,145,88,3145,"Patient reports fatigue, nausea, dizziness, blurred vision.",none,hypertension
+62,89,6.5,125,102,5353,"Patient reports blurred vision, swelling in ankles, fatigue, dizziness.",metoprolol,hypoxia
+99,92,4.8,134,80,8496,"Patient reports irregular heartbeat, chest pain, nausea, swelling in ankles.",none,arrhythmia
+92,95,6.6,158,96,1306,"Patient reports blurred vision, shortness of breath, nausea.",metoprolol,arrhythmia
+67,97,8.5,118,73,2121,"Patient reports swelling in ankles, fatigue, nausea, dizziness.",none,CHF
+67,89,5.5,127,93,2706,"Patient reports headache, blurred vision, nausea, swelling in ankles.",amlodipine,arrhythmia
+60,89,4.3,169,108,8926,"Patient reports fatigue, shortness of breath.",none,hypertension
+81,91,5.7,112,81,9106,"Patient reports dizziness, nausea, blurred vision, fatigue.",none,hypertension
+67,96,5.0,165,104,5775,"Patient reports nausea, blurred vision, headache, dizziness.",metoprolol,healthy
+68,97,5.7,128,105,6044,"Patient reports irregular heartbeat, headache, shortness of breath.",none,arrhythmia
+111,98,6.8,140,102,3179,"Patient reports shortness of breath, irregular heartbeat.",none,healthy
+83,91,6.7,124,108,9280,"Patient reports headache, nausea.",atorvastatin,hypoxia
+74,100,4.8,122,100,8046,"Patient reports nausea, dizziness, headache.",atorvastatin,arrhythmia
+112,89,7.8,159,106,3404,"Patient reports fatigue, nausea.",metoprolol,healthy
+91,99,8.0,178,92,9622,"Patient reports irregular heartbeat, dizziness, fatigue, chest pain.",lisinopril,CHF
+96,99,5.4,156,92,9762,"Patient reports fatigue, shortness of breath.",lisinopril,hypertension
+78,85,7.2,126,76,8535,"Patient reports headache, shortness of breath, swelling in ankles, blurred vision.",amlodipine,healthy
+116,97,6.7,148,81,7251,"Patient reports shortness of breath, fatigue, headache, chest pain.",metoprolol,hypoxia
+91,88,7.0,115,72,9203,"Patient reports fatigue, blurred vision, chest pain, nausea.",lisinopril,hypoxia
+87,99,5.7,133,76,8291,"Patient reports fatigue, dizziness.",metoprolol,arrhythmia
+115,98,5.4,151,102,4265,"Patient reports chest pain, nausea, blurred vision.",none,healthy
+106,90,4.4,131,102,4928,"Patient reports irregular heartbeat, nausea, dizziness.",amlodipine,CHF
+89,93,6.1,155,83,7200,"Patient reports chest pain, shortness of breath.",atorvastatin,CHF
+97,88,7.2,125,85,4250,"Patient reports swelling in ankles, shortness of breath.",amlodipine,hypertension
+74,98,8.0,142,109,6907,"Patient reports blurred vision, shortness of breath, fatigue, chest pain.",metoprolol,hypertension
+67,100,5.2,141,93,6596,"Patient reports fatigue, irregular heartbeat.",none,healthy
+102,96,6.0,172,101,1656,"Patient reports headache, irregular heartbeat.",lisinopril,hypoxia
+76,100,6.9,170,94,9288,"Patient reports fatigue, nausea.",amlodipine,arrhythmia
+99,88,7.3,175,87,5810,"Patient reports blurred vision, swelling in ankles.",none,hypertension
+120,98,6.7,174,80,7192,"Patient reports dizziness, shortness of breath, irregular heartbeat.",amlodipine,healthy
+65,99,8.3,149,77,8955,"Patient reports nausea, headache, fatigue, irregular heartbeat.",metoprolol,hypoxia
+120,85,8.5,128,70,9419,"Patient reports headache, shortness of breath, chest pain, nausea.",amlodipine,CHF
+68,100,4.2,140,101,6415,"Patient reports irregular heartbeat, blurred vision, fatigue, dizziness.",atorvastatin,hypertension
+83,95,6.8,171,107,7484,"Patient reports blurred vision, swelling in ankles, nausea.",metoprolol,healthy
+87,89,7.2,114,71,6526,"Patient reports headache, fatigue, shortness of breath.",none,hypertension
+87,92,4.0,169,101,9146,"Patient reports dizziness, blurred vision, nausea.",atorvastatin,CHF
+86,99,5.7,142,99,9965,"Patient reports fatigue, headache, chest pain, shortness of breath.",amlodipine,CHF
+114,87,4.9,178,84,9848,"Patient reports fatigue, headache.",amlodipine,CHF
+116,90,7.6,129,104,6803,"Patient reports nausea, headache, swelling in ankles.",atorvastatin,arrhythmia
+73,92,7.6,172,77,1226,"Patient reports fatigue, dizziness.",atorvastatin,arrhythmia
+72,96,6.5,176,80,2534,"Patient reports swelling in ankles, dizziness, nausea, fatigue.",none,hypoxia
+116,98,6.4,139,108,3471,"Patient reports swelling in ankles, shortness of breath.",amlodipine,hypoxia
+96,95,6.8,130,91,4613,"Patient reports headache, dizziness, irregular heartbeat.",metoprolol,CHF
+80,86,6.8,156,78,7926,"Patient reports irregular heartbeat, headache, fatigue.",lisinopril,hypoxia
+101,94,6.0,164,106,1310,"Patient reports swelling in ankles, chest pain.",none,CHF
+107,91,7.0,118,75,3594,"Patient reports swelling in ankles, blurred vision.",atorvastatin,arrhythmia
+80,89,8.3,164,93,4236,"Patient reports nausea, chest pain.",amlodipine,hypertension
+97,100,7.0,157,97,1774,"Patient reports fatigue, irregular heartbeat, blurred vision.",none,hypoxia
+86,90,4.4,175,83,9428,"Patient reports shortness of breath, fatigue, blurred vision, dizziness.",atorvastatin,healthy
+60,94,8.3,138,82,6596,"Patient reports chest pain, irregular heartbeat.",atorvastatin,hypertension
+117,92,7.2,118,81,5848,"Patient reports shortness of breath, dizziness.",lisinopril,hypertension
+95,94,8.4,137,109,2971,"Patient reports irregular heartbeat, blurred vision, swelling in ankles, shortness of breath.",amlodipine,healthy
+64,91,5.1,130,108,2878,"Patient reports headache, blurred vision, nausea.",lisinopril,arrhythmia
+87,88,8.2,128,79,9366,"Patient reports swelling in ankles, chest pain, irregular heartbeat.",lisinopril,arrhythmia
+64,94,7.5,167,91,6432,"Patient reports shortness of breath, dizziness.",lisinopril,arrhythmia
+90,98,8.5,119,73,9411,"Patient reports blurred vision, dizziness, swelling in ankles.",metoprolol,hypertension
+88,93,7.2,165,93,8122,"Patient reports chest pain, headache, dizziness, swelling in ankles.",atorvastatin,hypertension
+116,94,6.3,116,90,7596,"Patient reports irregular heartbeat, nausea.",none,hypertension
+113,96,5.2,111,71,1547,"Patient reports chest pain, irregular heartbeat, dizziness, blurred vision.",atorvastatin,arrhythmia
+61,92,6.8,166,86,6200,"Patient reports blurred vision, dizziness, nausea, swelling in ankles.",none,CHF
+116,87,7.0,120,76,7986,"Patient reports swelling in ankles, chest pain.",lisinopril,hypoxia
+66,98,5.3,155,94,4910,"Patient reports dizziness, irregular heartbeat, nausea.",metoprolol,CHF
+105,92,6.3,133,98,8707,"Patient reports dizziness, blurred vision.",none,hypoxia
+61,95,5.8,116,91,3255,"Patient reports dizziness, swelling in ankles.",metoprolol,healthy
+85,99,4.1,178,94,3907,"Patient reports chest pain, irregular heartbeat.",amlodipine,hypertension
+66,92,7.8,124,88,6703,"Patient reports headache, nausea.",metoprolol,arrhythmia
+63,87,4.2,168,77,8731,"Patient reports swelling in ankles, nausea, fatigue.",atorvastatin,hypoxia
+110,93,5.2,111,81,4969,"Patient reports shortness of breath, nausea, dizziness, fatigue.",lisinopril,CHF
+107,98,4.3,144,100,5705,"Patient reports nausea, fatigue, blurred vision, dizziness.",amlodipine,arrhythmia
+74,85,7.9,157,85,4626,"Patient reports chest pain, blurred vision, swelling in ankles, shortness of breath.",none,hypertension
+85,95,6.2,113,105,1036,"Patient reports blurred vision, fatigue.",atorvastatin,healthy
+70,99,5.5,118,99,3582,"Patient reports shortness of breath, nausea.",amlodipine,hypoxia
+86,94,4.4,141,102,4477,"Patient reports headache, shortness of breath.",lisinopril,CHF
+72,94,6.0,128,91,7985,"Patient reports dizziness, nausea.",metoprolol,healthy
+106,95,7.8,150,98,7726,"Patient reports shortness of breath, swelling in ankles, blurred vision.",amlodipine,CHF
+84,87,6.7,129,108,1454,"Patient reports shortness of breath, headache.",atorvastatin,healthy
+69,86,4.4,115,75,7015,"Patient reports blurred vision, dizziness, headache, fatigue.",amlodipine,hypoxia
+112,94,5.1,129,95,1732,"Patient reports irregular heartbeat, chest pain, shortness of breath, headache.",lisinopril,arrhythmia
+76,85,5.6,173,105,2219,"Patient reports nausea, fatigue, dizziness, shortness of breath.",lisinopril,healthy
+92,86,7.3,180,108,8052,"Patient reports chest pain, dizziness.",lisinopril,hypertension
+94,87,7.6,173,98,5828,"Patient reports dizziness, irregular heartbeat.",none,hypoxia
+62,86,5.1,130,82,3193,"Patient reports dizziness, fatigue, swelling in ankles, nausea.",atorvastatin,hypertension
+81,87,8.3,111,79,1011,"Patient reports headache, fatigue, chest pain, shortness of breath.",lisinopril,hypoxia
+108,89,8.0,162,94,3207,"Patient reports headache, fatigue.",none,healthy
+73,97,5.6,140,94,3555,"Patient reports fatigue, shortness of breath, chest pain.",lisinopril,healthy
+98,92,5.6,121,75,7105,"Patient reports headache, dizziness, fatigue.",metoprolol,hypertension
+100,100,6.4,134,79,2428,"Patient reports swelling in ankles, blurred vision, fatigue, headache.",atorvastatin,CHF
+88,94,6.0,172,80,8675,"Patient reports irregular heartbeat, headache, nausea.",amlodipine,CHF
+71,85,7.1,137,90,6437,"Patient reports nausea, dizziness, shortness of breath.",amlodipine,arrhythmia
+105,96,6.6,169,78,5114,"Patient reports dizziness, irregular heartbeat.",lisinopril,healthy
+77,86,8.4,174,106,4279,"Patient reports chest pain, dizziness.",amlodipine,healthy
+83,92,7.0,161,100,8129,"Patient reports headache, swelling in ankles, blurred vision, irregular heartbeat.",metoprolol,arrhythmia
+91,86,6.1,160,104,3663,"Patient reports shortness of breath, headache, blurred vision, fatigue.",atorvastatin,hypertension
+119,94,7.0,131,96,4076,"Patient reports swelling in ankles, nausea.",none,hypoxia
+100,86,7.8,178,88,3961,"Patient reports swelling in ankles, headache, nausea, blurred vision.",atorvastatin,arrhythmia
+76,88,8.0,146,91,8960,"Patient reports swelling in ankles, blurred vision.",amlodipine,hypertension
+80,90,5.7,167,79,7874,"Patient reports fatigue, blurred vision, nausea.",atorvastatin,CHF
+67,98,6.1,160,93,7232,"Patient reports chest pain, swelling in ankles, nausea.",none,healthy
+106,91,5.2,130,84,4524,"Patient reports irregular heartbeat, chest pain, dizziness.",metoprolol,CHF
+82,88,7.2,129,86,8324,"Patient reports swelling in ankles, fatigue.",atorvastatin,hypoxia
+108,87,5.2,158,95,1413,"Patient reports dizziness, irregular heartbeat, blurred vision.",amlodipine,hypoxia
+104,88,8.3,164,78,8387,"Patient reports nausea, irregular heartbeat, headache, shortness of breath.",atorvastatin,arrhythmia
+81,95,6.9,155,100,5138,"Patient reports shortness of breath, nausea, fatigue, chest pain.",atorvastatin,healthy
+99,89,5.0,178,103,5240,"Patient reports irregular heartbeat, fatigue, headache, swelling in ankles.",metoprolol,hypoxia
+119,100,4.2,175,108,8795,"Patient reports shortness of breath, chest pain.",atorvastatin,hypertension
+91,100,7.8,178,103,9664,"Patient reports fatigue, nausea, irregular heartbeat.",metoprolol,arrhythmia
+106,100,7.8,161,72,1582,"Patient reports dizziness, fatigue, swelling in ankles.",metoprolol,hypertension
+107,90,5.5,111,71,7722,"Patient reports chest pain, nausea, dizziness.",atorvastatin,arrhythmia
+109,95,5.3,131,106,1704,"Patient reports irregular heartbeat, blurred vision.",metoprolol,hypertension
+96,93,4.6,163,79,6598,"Patient reports headache, irregular heartbeat, chest pain, blurred vision.",metoprolol,CHF
+91,98,6.0,171,107,2547,"Patient reports fatigue, blurred vision, irregular heartbeat, shortness of breath.",none,arrhythmia
+71,100,5.6,167,101,3816,"Patient reports irregular heartbeat, dizziness, fatigue, chest pain.",lisinopril,healthy
+78,91,4.2,147,99,8997,"Patient reports shortness of breath, swelling in ankles, blurred vision.",atorvastatin,arrhythmia
+113,94,8.1,124,102,3206,"Patient reports shortness of breath, headache.",metoprolol,CHF
+86,94,7.3,162,95,1992,"Patient reports dizziness, shortness of breath.",amlodipine,healthy
+119,95,5.3,132,83,6882,"Patient reports dizziness, chest pain.",none,CHF
+70,97,4.4,128,71,7214,"Patient reports shortness of breath, headache, irregular heartbeat.",atorvastatin,hypertension
+93,90,4.6,175,78,3161,"Patient reports fatigue, dizziness, nausea.",lisinopril,healthy
+77,86,6.8,176,96,3287,"Patient reports fatigue, dizziness, chest pain, irregular heartbeat.",atorvastatin,hypertension
+111,98,8.1,110,90,3983,"Patient reports shortness of breath, irregular heartbeat.",lisinopril,healthy
+79,85,5.1,164,94,8786,"Patient reports fatigue, dizziness, nausea.",none,hypoxia
+112,85,6.9,129,81,2986,"Patient reports shortness of breath, blurred vision.",none,arrhythmia
+116,99,8.1,134,80,3005,"Patient reports blurred vision, dizziness.",none,healthy
+80,99,4.6,116,74,7799,"Patient reports irregular heartbeat, blurred vision.",lisinopril,hypertension
+88,92,6.8,179,72,5232,"Patient reports fatigue, swelling in ankles, dizziness.",none,hypertension
+113,95,5.3,169,84,1855,"Patient reports dizziness, nausea, fatigue.",lisinopril,healthy
+99,99,7.3,128,89,7710,"Patient reports blurred vision, headache.",atorvastatin,CHF
+113,95,4.0,165,82,7340,"Patient reports swelling in ankles, fatigue, dizziness.",lisinopril,arrhythmia
+104,94,8.0,110,97,4949,"Patient reports headache, irregular heartbeat, swelling in ankles.",atorvastatin,hypoxia
+112,98,8.4,124,105,7910,"Patient reports nausea, fatigue.",atorvastatin,arrhythmia
+92,88,7.6,120,103,2464,"Patient reports dizziness, shortness of breath, blurred vision.",amlodipine,arrhythmia
+94,93,4.8,154,74,4373,"Patient reports fatigue, nausea, headache, shortness of breath.",atorvastatin,healthy
+72,100,6.5,150,108,4452,"Patient reports swelling in ankles, fatigue, nausea, dizziness.",none,hypoxia
+70,85,8.4,137,95,6823,"Patient reports dizziness, fatigue, blurred vision, headache.",amlodipine,hypoxia
+113,93,8.3,130,75,1048,"Patient reports swelling in ankles, shortness of breath, fatigue, dizziness.",none,healthy
+100,89,4.3,167,83,4308,"Patient reports irregular heartbeat, chest pain, dizziness, shortness of breath.",none,hypertension
+112,93,7.0,131,81,5616,"Patient reports chest pain, irregular heartbeat.",lisinopril,CHF
+96,85,7.5,133,72,6170,"Patient reports shortness of breath, swelling in ankles.",none,CHF
+64,89,6.0,139,88,1932,"Patient reports shortness of breath, irregular heartbeat.",none,CHF
+113,89,7.7,148,103,3400,"Patient reports headache, swelling in ankles, shortness of breath, irregular heartbeat.",metoprolol,arrhythmia
+79,85,4.7,137,70,5249,"Patient reports dizziness, headache, shortness of breath.",metoprolol,CHF
+95,92,8.0,172,86,6525,"Patient reports fatigue, shortness of breath.",lisinopril,healthy
+73,97,8.0,143,88,1024,"Patient reports fatigue, shortness of breath, dizziness, chest pain.",amlodipine,hypoxia
+73,89,8.0,135,86,4407,"Patient reports swelling in ankles, blurred vision.",metoprolol,CHF
+94,93,5.4,131,81,3992,"Patient reports dizziness, chest pain, nausea, headache.",lisinopril,hypoxia
+112,96,5.0,114,107,3758,"Patient reports chest pain, blurred vision, shortness of breath.",amlodipine,hypertension
+71,100,5.7,111,85,7104,"Patient reports nausea, fatigue, dizziness, irregular heartbeat.",metoprolol,hypertension
+100,95,7.8,168,75,3476,"Patient reports dizziness, blurred vision.",atorvastatin,hypertension
+100,98,7.8,171,71,9355,"Patient reports chest pain, dizziness, fatigue.",amlodipine,healthy
+111,89,7.0,180,75,8981,"Patient reports irregular heartbeat, fatigue, dizziness, nausea.",metoprolol,hypoxia
+70,89,4.8,148,70,2502,"Patient reports fatigue, blurred vision, nausea, headache.",amlodipine,arrhythmia
+69,92,7.2,162,75,3987,"Patient reports shortness of breath, chest pain, headache.",amlodipine,hypertension
+98,85,4.8,152,71,9885,"Patient reports nausea, blurred vision, fatigue, headache.",lisinopril,hypoxia
+108,88,6.0,178,70,6756,"Patient reports swelling in ankles, headache.",atorvastatin,healthy
+99,94,7.3,144,103,4370,"Patient reports chest pain, fatigue, shortness of breath.",none,arrhythmia
+114,92,7.7,174,93,2157,"Patient reports dizziness, nausea, swelling in ankles, headache.",lisinopril,healthy
+109,94,5.3,142,106,9773,"Patient reports swelling in ankles, fatigue, shortness of breath.",metoprolol,hypertension
+68,99,4.6,148,74,5895,"Patient reports fatigue, chest pain, shortness of breath, headache.",atorvastatin,CHF
+70,87,5.6,154,95,4373,"Patient reports dizziness, irregular heartbeat, headache.",atorvastatin,CHF
+75,99,7.2,127,70,6105,"Patient reports shortness of breath, swelling in ankles.",lisinopril,CHF
+77,88,7.4,145,100,1803,"Patient reports shortness of breath, nausea.",metoprolol,CHF
+68,97,7.3,137,71,7237,"Patient reports fatigue, chest pain.",atorvastatin,arrhythmia
+117,95,8.1,143,107,5828,"Patient reports fatigue, nausea, blurred vision.",lisinopril,arrhythmia
+74,85,4.5,160,82,1019,"Patient reports headache, swelling in ankles.",metoprolol,healthy
+61,99,5.1,152,73,6292,"Patient reports swelling in ankles, chest pain.",amlodipine,CHF
+108,99,4.7,143,99,9922,"Patient reports swelling in ankles, dizziness, chest pain.",lisinopril,arrhythmia
+103,87,4.8,169,75,5922,"Patient reports fatigue, irregular heartbeat, blurred vision, shortness of breath.",none,arrhythmia
+64,89,8.3,143,78,5142,"Patient reports blurred vision, swelling in ankles, irregular heartbeat.",amlodipine,healthy
+71,92,8.0,166,72,1684,"Patient reports shortness of breath, nausea, swelling in ankles, chest pain.",metoprolol,hypoxia
+110,94,7.9,135,88,7870,"Patient reports fatigue, nausea, headache.",lisinopril,healthy
+87,87,6.7,114,80,9407,"Patient reports dizziness, shortness of breath, blurred vision.",lisinopril,arrhythmia
+97,88,4.9,135,90,5498,"Patient reports swelling in ankles, blurred vision.",atorvastatin,healthy
+90,94,7.4,163,97,8797,"Patient reports dizziness, nausea.",atorvastatin,healthy
+97,90,7.9,148,101,3097,"Patient reports chest pain, dizziness.",metoprolol,healthy
+117,93,4.4,175,103,2542,"Patient reports nausea, chest pain, irregular heartbeat, blurred vision.",metoprolol,hypertension
+99,89,4.9,121,95,5832,"Patient reports swelling in ankles, fatigue, nausea.",none,hypoxia
+74,91,7.8,132,103,3895,"Patient reports nausea, shortness of breath, swelling in ankles.",amlodipine,hypoxia
+106,90,4.8,146,79,1913,"Patient reports shortness of breath, irregular heartbeat, nausea, blurred vision.",metoprolol,hypoxia
+76,95,4.8,134,97,1065,"Patient reports nausea, headache.",amlodipine,healthy
+72,98,4.7,147,103,2142,"Patient reports nausea, fatigue.",none,hypertension
+83,87,7.2,162,92,9315,"Patient reports nausea, swelling in ankles.",metoprolol,healthy
+83,99,5.8,128,98,9650,"Patient reports chest pain, headache, dizziness.",none,arrhythmia
+78,99,6.5,163,75,2416,"Patient reports nausea, chest pain.",lisinopril,CHF
+103,93,4.9,175,106,6426,"Patient reports irregular heartbeat, headache.",amlodipine,healthy
+116,95,4.4,162,110,9462,"Patient reports headache, blurred vision, nausea.",lisinopril,healthy
+108,95,5.7,175,110,5487,"Patient reports swelling in ankles, dizziness, headache, chest pain.",none,CHF
+94,94,5.8,154,105,7746,"Patient reports irregular heartbeat, nausea.",atorvastatin,CHF
+100,100,5.4,156,102,2377,"Patient reports fatigue, nausea, headache.",lisinopril,CHF
+63,92,6.6,158,78,2098,"Patient reports fatigue, chest pain, blurred vision.",amlodipine,hypertension
+72,98,7.4,114,78,6499,"Patient reports fatigue, swelling in ankles, headache, blurred vision.",lisinopril,arrhythmia
+105,97,7.5,118,85,4090,"Patient reports swelling in ankles, shortness of breath, fatigue.",lisinopril,hypoxia
+90,88,4.2,160,92,4249,"Patient reports nausea, fatigue.",lisinopril,arrhythmia
+61,92,4.8,147,101,5552,"Patient reports swelling in ankles, irregular heartbeat, headache, nausea.",metoprolol,CHF
+91,96,4.5,180,94,6172,"Patient reports swelling in ankles, dizziness.",metoprolol,hypoxia
+82,98,7.9,117,91,8908,"Patient reports swelling in ankles, fatigue.",metoprolol,hypertension
+72,86,6.8,162,100,6378,"Patient reports swelling in ankles, fatigue.",metoprolol,healthy
+88,92,7.5,115,110,1649,"Patient reports headache, blurred vision.",metoprolol,healthy
+103,92,7.3,165,101,5371,"Patient reports shortness of breath, fatigue, chest pain.",amlodipine,CHF
+112,91,4.8,126,94,6654,"Patient reports chest pain, shortness of breath, dizziness, nausea.",lisinopril,healthy
+83,87,4.8,150,101,6817,"Patient reports irregular heartbeat, swelling in ankles, shortness of breath, fatigue.",atorvastatin,CHF
+114,91,8.0,161,81,8302,"Patient reports shortness of breath, irregular heartbeat, nausea.",metoprolol,healthy
+100,95,8.2,117,87,7374,"Patient reports shortness of breath, swelling in ankles.",lisinopril,hypertension
+95,90,7.7,143,93,1306,"Patient reports headache, swelling in ankles, fatigue.",amlodipine,healthy
+90,95,4.6,148,83,8848,"Patient reports chest pain, shortness of breath, dizziness.",atorvastatin,hypertension
+109,87,7.9,160,86,9032,"Patient reports chest pain, fatigue, headache, nausea.",atorvastatin,CHF
+93,90,4.8,146,71,5002,"Patient reports shortness of breath, irregular heartbeat.",lisinopril,healthy
+105,88,7.2,110,102,2176,"Patient reports headache, shortness of breath.",lisinopril,CHF
+71,85,4.8,112,85,5732,"Patient reports dizziness, shortness of breath, nausea, chest pain.",lisinopril,healthy
+115,95,5.8,179,83,2882,"Patient reports irregular heartbeat, headache, chest pain.",amlodipine,healthy
+100,100,6.5,157,94,8350,"Patient reports shortness of breath, dizziness, fatigue.",metoprolol,healthy
+87,88,7.7,169,72,9477,"Patient reports chest pain, headache.",amlodipine,arrhythmia
+81,99,6.0,170,86,9805,"Patient reports blurred vision, headache, chest pain.",none,healthy
+62,94,6.5,127,76,7410,"Patient reports nausea, blurred vision.",amlodipine,hypoxia
+108,85,7.3,130,108,4169,"Patient reports blurred vision, fatigue, headache.",metoprolol,CHF
+81,98,5.7,155,109,1213,"Patient reports headache, dizziness, fatigue, blurred vision.",atorvastatin,arrhythmia
+60,88,4.5,117,84,2182,"Patient reports swelling in ankles, headache, nausea.",none,arrhythmia
+102,89,6.0,167,110,5219,"Patient reports headache, shortness of breath, chest pain.",lisinopril,hypertension
+102,86,5.5,128,101,2008,"Patient reports dizziness, nausea, blurred vision, irregular heartbeat.",none,hypertension
+61,88,7.9,115,109,2844,"Patient reports blurred vision, fatigue.",metoprolol,arrhythmia
+115,98,5.6,129,81,9933,"Patient reports shortness of breath, nausea.",lisinopril,hypertension
+83,100,7.2,155,105,4726,"Patient reports chest pain, fatigue.",amlodipine,arrhythmia
+78,90,5.3,124,81,9229,"Patient reports swelling in ankles, headache, dizziness, chest pain.",lisinopril,hypertension
+83,99,7.7,141,86,3228,"Patient reports chest pain, fatigue, irregular heartbeat, dizziness.",amlodipine,hypoxia
+67,99,4.6,158,73,5138,"Patient reports chest pain, blurred vision, headache.",metoprolol,arrhythmia
+102,89,7.0,162,109,8234,"Patient reports headache, irregular heartbeat, swelling in ankles.",none,arrhythmia
+94,88,5.2,131,109,4799,"Patient reports irregular heartbeat, chest pain, swelling in ankles, nausea.",metoprolol,CHF
+115,94,7.6,170,87,4672,"Patient reports dizziness, headache, shortness of breath.",none,hypoxia
+94,88,4.8,112,109,3099,"Patient reports chest pain, blurred vision.",atorvastatin,arrhythmia
+91,96,8.0,175,72,1144,"Patient reports chest pain, shortness of breath.",none,CHF
+88,96,8.5,121,78,7417,"Patient reports blurred vision, headache, chest pain, shortness of breath.",atorvastatin,hypoxia
+97,89,8.1,161,77,9358,"Patient reports dizziness, chest pain, blurred vision, headache.",metoprolol,arrhythmia
+87,86,5.7,176,108,7324,"Patient reports dizziness, shortness of breath, nausea, headache.",atorvastatin,healthy
+65,96,7.7,157,101,1927,"Patient reports dizziness, chest pain, swelling in ankles.",atorvastatin,hypoxia
+120,87,8.4,163,86,9209,"Patient reports blurred vision, irregular heartbeat, chest pain.",amlodipine,hypertension
+118,85,8.2,170,100,8955,"Patient reports shortness of breath, dizziness.",none,arrhythmia
+73,92,6.2,157,96,8839,"Patient reports swelling in ankles, shortness of breath, headache.",none,CHF
+107,93,7.2,140,106,4773,"Patient reports nausea, headache, chest pain.",none,hypertension
+111,93,7.8,111,75,7914,"Patient reports shortness of breath, dizziness, chest pain, nausea.",none,CHF
+108,89,4.8,125,91,6683,"Patient reports fatigue, shortness of breath, dizziness, blurred vision.",metoprolol,arrhythmia
+63,92,5.9,172,95,5933,"Patient reports dizziness, headache, blurred vision, swelling in ankles.",amlodipine,arrhythmia
+81,98,5.6,168,92,5603,"Patient reports dizziness, headache.",lisinopril,CHF
+116,95,4.8,173,98,6320,"Patient reports swelling in ankles, chest pain, nausea, fatigue.",amlodipine,hypoxia
+104,92,4.1,141,79,2740,"Patient reports blurred vision, nausea.",metoprolol,arrhythmia
+98,90,5.2,165,82,7102,"Patient reports fatigue, blurred vision.",metoprolol,arrhythmia
+105,97,4.2,113,102,1585,"Patient reports dizziness, shortness of breath, chest pain.",amlodipine,hypertension
+88,98,4.4,125,94,4107,"Patient reports irregular heartbeat, shortness of breath, swelling in ankles.",none,healthy
+84,85,8.0,123,71,5230,"Patient reports dizziness, chest pain, irregular heartbeat, headache.",none,hypertension
+75,90,4.0,178,106,3889,"Patient reports shortness of breath, headache, chest pain.",atorvastatin,healthy
+78,100,7.4,148,106,5804,"Patient reports chest pain, swelling in ankles, fatigue.",none,arrhythmia
+101,87,5.2,122,101,1513,"Patient reports irregular heartbeat, headache.",atorvastatin,arrhythmia
+104,86,4.4,159,105,5876,"Patient reports shortness of breath, chest pain, irregular heartbeat, dizziness.",metoprolol,hypoxia
+76,91,7.5,159,96,1051,"Patient reports headache, fatigue, irregular heartbeat, shortness of breath.",atorvastatin,CHF
+93,91,8.4,131,76,1803,"Patient reports shortness of breath, chest pain, dizziness, irregular heartbeat.",none,hypoxia
+71,90,4.2,118,108,1755,"Patient reports dizziness, nausea, fatigue, swelling in ankles.",none,healthy
+99,97,6.0,130,105,3782,"Patient reports headache, fatigue, nausea.",atorvastatin,CHF
+63,85,4.1,173,96,6032,"Patient reports shortness of breath, nausea.",metoprolol,CHF
+93,95,8.2,137,88,7607,"Patient reports shortness of breath, headache, dizziness, nausea.",none,hypertension
+79,91,4.0,125,83,2871,"Patient reports headache, irregular heartbeat, nausea.",amlodipine,hypoxia
+98,85,4.7,133,88,5189,"Patient reports nausea, irregular heartbeat, shortness of breath, headache.",metoprolol,healthy
+69,96,4.5,175,99,6827,"Patient reports fatigue, swelling in ankles, headache.",lisinopril,healthy
+101,100,7.6,125,84,2144,"Patient reports headache, shortness of breath, irregular heartbeat.",amlodipine,CHF
+89,90,7.6,172,80,2113,"Patient reports chest pain, fatigue, nausea.",atorvastatin,hypoxia
+71,91,8.4,123,108,7883,"Patient reports blurred vision, shortness of breath.",amlodipine,CHF
+107,90,7.2,158,77,4735,"Patient reports fatigue, headache, dizziness.",none,hypertension
+87,94,7.4,133,100,5166,"Patient reports blurred vision, fatigue.",none,healthy
+75,100,4.3,111,92,8638,"Patient reports fatigue, dizziness, shortness of breath.",none,hypoxia
+75,96,5.5,135,106,4030,"Patient reports headache, shortness of breath.",amlodipine,hypoxia
+98,88,6.0,152,73,8083,"Patient reports swelling in ankles, blurred vision, chest pain, headache.",lisinopril,hypoxia
+74,90,4.4,137,105,6133,"Patient reports dizziness, fatigue.",lisinopril,CHF
+98,98,7.3,138,85,9301,"Patient reports irregular heartbeat, chest pain, blurred vision.",lisinopril,hypoxia
+115,86,6.4,176,94,8636,"Patient reports irregular heartbeat, blurred vision.",atorvastatin,healthy
+82,93,7.8,140,86,1495,"Patient reports chest pain, fatigue.",none,arrhythmia
+92,93,4.8,151,88,2954,"Patient reports blurred vision, headache, shortness of breath.",none,hypoxia
+62,89,4.6,174,103,3388,"Patient reports chest pain, irregular heartbeat.",lisinopril,arrhythmia
+70,95,7.9,129,94,8520,"Patient reports dizziness, nausea, swelling in ankles.",amlodipine,hypertension
+99,90,7.9,175,88,8088,"Patient reports fatigue, headache, dizziness.",atorvastatin,healthy
+109,89,6.7,115,90,7470,"Patient reports shortness of breath, irregular heartbeat, nausea, chest pain.",lisinopril,hypertension
+77,85,6.5,177,82,5018,"Patient reports blurred vision, dizziness, swelling in ankles, fatigue.",none,arrhythmia
+63,95,8.2,111,93,4829,"Patient reports irregular heartbeat, shortness of breath, swelling in ankles.",lisinopril,hypoxia
+116,93,6.9,147,96,1951,"Patient reports shortness of breath, nausea.",amlodipine,arrhythmia
+96,99,8.0,126,105,8009,"Patient reports headache, shortness of breath, dizziness.",atorvastatin,hypoxia
+74,87,6.0,115,73,3528,"Patient reports shortness of breath, chest pain.",atorvastatin,hypertension
+114,96,5.1,144,101,5792,"Patient reports blurred vision, dizziness.",amlodipine,healthy
+70,93,4.3,150,92,1186,"Patient reports dizziness, blurred vision, irregular heartbeat, chest pain.",amlodipine,hypoxia
+70,93,8.0,122,102,9175,"Patient reports shortness of breath, swelling in ankles, headache.",atorvastatin,hypertension
+103,91,4.8,177,77,1819,"Patient reports chest pain, shortness of breath, headache, dizziness.",none,CHF
+80,89,5.6,127,92,4994,"Patient reports blurred vision, shortness of breath, nausea, swelling in ankles.",amlodipine,healthy
+78,99,5.9,116,80,2005,"Patient reports irregular heartbeat, fatigue, chest pain, shortness of breath.",none,CHF
+77,89,5.8,156,90,6366,"Patient reports swelling in ankles, chest pain.",amlodipine,arrhythmia
+99,96,6.3,145,98,3638,"Patient reports irregular heartbeat, swelling in ankles, blurred vision.",metoprolol,hypoxia
+104,85,7.8,146,101,6522,"Patient reports chest pain, blurred vision, fatigue.",amlodipine,CHF
+107,91,8.0,171,108,7390,"Patient reports swelling in ankles, chest pain, shortness of breath, nausea.",metoprolol,healthy
+68,88,5.5,110,87,7855,"Patient reports blurred vision, dizziness.",atorvastatin,healthy
+113,96,6.8,165,70,5445,"Patient reports nausea, headache, dizziness.",atorvastatin,arrhythmia
+87,94,8.1,111,89,2462,"Patient reports dizziness, chest pain, headache.",none,hypoxia
+110,91,7.1,135,94,8995,"Patient reports headache, irregular heartbeat, blurred vision, chest pain.",atorvastatin,arrhythmia
+112,98,5.0,132,109,5864,"Patient reports irregular heartbeat, swelling in ankles.",atorvastatin,hypertension
+119,90,4.2,167,72,6706,"Patient reports irregular heartbeat, blurred vision, dizziness, chest pain.",metoprolol,healthy
+80,91,4.1,160,90,7235,"Patient reports fatigue, swelling in ankles, shortness of breath, blurred vision.",metoprolol,healthy
+70,98,6.1,121,85,3068,"Patient reports blurred vision, irregular heartbeat, fatigue.",metoprolol,arrhythmia
+89,85,4.7,118,76,6008,"Patient reports blurred vision, chest pain.",none,hypoxia
+88,93,5.2,130,100,3995,"Patient reports fatigue, nausea, blurred vision, irregular heartbeat.",none,hypertension
+71,93,4.2,131,110,6827,"Patient reports nausea, blurred vision.",lisinopril,hypertension
+92,95,5.3,119,75,1327,"Patient reports shortness of breath, headache.",amlodipine,hypertension
+80,86,4.7,180,96,7118,"Patient reports shortness of breath, irregular heartbeat, dizziness.",amlodipine,hypertension
+68,99,5.1,133,82,1967,"Patient reports nausea, headache, swelling in ankles, irregular heartbeat.",atorvastatin,CHF
+64,89,6.1,168,85,4054,"Patient reports fatigue, irregular heartbeat, swelling in ankles, blurred vision.",amlodipine,CHF
+73,90,4.1,159,85,7140,"Patient reports blurred vision, fatigue, chest pain, nausea.",atorvastatin,hypoxia
+73,90,7.5,165,99,3939,"Patient reports chest pain, swelling in ankles, irregular heartbeat, nausea.",lisinopril,arrhythmia
+108,85,6.1,161,77,6990,"Patient reports shortness of breath, swelling in ankles, irregular heartbeat, dizziness.",metoprolol,hypoxia
+61,87,7.6,131,86,2931,"Patient reports nausea, blurred vision.",metoprolol,hypertension
+84,87,4.9,137,102,1273,"Patient reports shortness of breath, dizziness.",none,hypoxia
+104,90,4.6,164,77,5768,"Patient reports shortness of breath, headache.",atorvastatin,hypertension
+109,97,7.2,152,103,5013,"Patient reports shortness of breath, fatigue.",amlodipine,CHF
+90,94,4.1,154,91,3531,"Patient reports irregular heartbeat, shortness of breath, blurred vision, chest pain.",atorvastatin,arrhythmia
+119,100,4.6,164,78,5186,"Patient reports dizziness, chest pain, blurred vision.",none,hypertension
+119,100,5.2,164,98,7538,"Patient reports swelling in ankles, blurred vision, headache.",lisinopril,healthy
+107,97,4.2,152,77,7398,"Patient reports fatigue, headache, dizziness.",metoprolol,healthy
+84,89,7.1,136,72,4435,"Patient reports swelling in ankles, irregular heartbeat, headache.",atorvastatin,hypoxia
+81,85,6.5,172,84,5490,"Patient reports fatigue, dizziness.",amlodipine,hypertension
+73,97,6.0,130,99,9938,"Patient reports headache, dizziness, nausea.",none,healthy
+95,87,7.3,166,106,1175,"Patient reports blurred vision, chest pain, nausea, swelling in ankles.",atorvastatin,healthy
+109,97,6.9,113,83,2600,"Patient reports blurred vision, dizziness, fatigue, chest pain.",amlodipine,CHF
+84,89,4.4,134,76,3995,"Patient reports fatigue, dizziness.",atorvastatin,healthy
+107,93,7.3,110,77,8801,"Patient reports blurred vision, headache.",atorvastatin,CHF
+93,90,4.1,119,97,5262,"Patient reports dizziness, nausea, fatigue, shortness of breath.",amlodipine,healthy
+67,97,7.4,121,76,6648,"Patient reports irregular heartbeat, blurred vision.",atorvastatin,hypertension
+108,87,4.7,146,109,1890,"Patient reports shortness of breath, irregular heartbeat.",none,healthy
+81,99,5.8,115,88,1825,"Patient reports irregular heartbeat, nausea, blurred vision, headache.",atorvastatin,healthy
+117,89,6.4,133,77,4077,"Patient reports shortness of breath, swelling in ankles, blurred vision.",lisinopril,hypoxia
+79,94,4.3,165,82,3533,"Patient reports swelling in ankles, fatigue.",none,healthy
+98,91,6.7,129,79,7657,"Patient reports irregular heartbeat, fatigue.",none,healthy
+86,95,4.8,177,79,4940,"Patient reports headache, nausea, fatigue.",atorvastatin,CHF
+91,85,8.2,169,104,9227,"Patient reports blurred vision, nausea, dizziness.",amlodipine,arrhythmia
+109,95,4.4,157,71,8858,"Patient reports irregular heartbeat, fatigue, swelling in ankles, dizziness.",lisinopril,hypertension
+112,100,5.0,132,99,2738,"Patient reports irregular heartbeat, dizziness, shortness of breath.",amlodipine,hypertension
+84,97,6.1,111,77,4726,"Patient reports shortness of breath, dizziness, chest pain, swelling in ankles.",atorvastatin,CHF
+77,93,8.4,144,88,1104,"Patient reports blurred vision, swelling in ankles.",amlodipine,arrhythmia
+80,100,5.1,123,87,8457,"Patient reports chest pain, shortness of breath, irregular heartbeat, swelling in ankles.",metoprolol,hypoxia
+65,87,8.0,135,103,1456,"Patient reports headache, dizziness.",none,healthy
+63,86,4.2,125,70,7126,"Patient reports blurred vision, fatigue, swelling in ankles, chest pain.",metoprolol,CHF
+82,87,8.3,173,109,8957,"Patient reports fatigue, nausea, shortness of breath.",lisinopril,hypoxia
+82,85,6.9,175,104,4144,"Patient reports shortness of breath, blurred vision, nausea, headache.",amlodipine,hypertension
+75,85,5.7,176,75,4858,"Patient reports nausea, shortness of breath, chest pain, dizziness.",metoprolol,healthy
+60,91,4.1,155,84,2746,"Patient reports shortness of breath, nausea, chest pain, fatigue.",amlodipine,arrhythmia
+101,90,5.2,137,89,5551,"Patient reports blurred vision, irregular heartbeat, headache.",metoprolol,hypoxia
+115,98,8.5,120,107,3748,"Patient reports chest pain, blurred vision, shortness of breath, swelling in ankles.",none,CHF
+93,86,7.3,142,85,6685,"Patient reports irregular heartbeat, shortness of breath, swelling in ankles.",none,CHF
+108,86,7.2,171,101,5705,"Patient reports headache, fatigue.",none,arrhythmia
+82,88,4.3,118,84,8131,"Patient reports blurred vision, chest pain.",lisinopril,arrhythmia
+86,94,5.0,115,74,2852,"Patient reports nausea, headache.",metoprolol,hypoxia
+69,85,5.4,160,87,3673,"Patient reports shortness of breath, fatigue, headache, nausea.",metoprolol,hypertension
+97,97,7.2,125,85,4571,"Patient reports fatigue, headache, blurred vision, nausea.",metoprolol,hypertension
+82,93,5.2,152,75,9382,"Patient reports nausea, fatigue, dizziness, headache.",metoprolol,hypertension
+102,89,7.6,132,108,2174,"Patient reports nausea, swelling in ankles.",metoprolol,hypoxia
+98,96,7.8,124,98,6822,"Patient reports shortness of breath, nausea, blurred vision.",atorvastatin,CHF
+65,90,5.9,180,92,7058,"Patient reports irregular heartbeat, shortness of breath.",amlodipine,hypoxia
+95,98,6.8,155,73,3432,"Patient reports nausea, dizziness.",none,arrhythmia
+119,93,6.9,141,99,6636,"Patient reports nausea, swelling in ankles, chest pain, dizziness.",atorvastatin,arrhythmia
+68,87,7.7,146,106,3998,"Patient reports nausea, shortness of breath, swelling in ankles.",none,hypoxia
+100,97,4.3,161,73,8576,"Patient reports headache, chest pain, shortness of breath, irregular heartbeat.",none,healthy
+79,97,6.3,165,97,5934,"Patient reports nausea, swelling in ankles, irregular heartbeat, shortness of breath.",amlodipine,hypoxia
+103,94,5.6,160,74,3906,"Patient reports swelling in ankles, irregular heartbeat.",atorvastatin,CHF
+90,89,8.5,161,88,6870,"Patient reports chest pain, blurred vision, nausea.",none,CHF
+85,86,5.6,171,96,1136,"Patient reports swelling in ankles, dizziness, headache, blurred vision.",none,arrhythmia
+64,85,7.7,136,97,6410,"Patient reports dizziness, blurred vision, shortness of breath, irregular heartbeat.",metoprolol,hypoxia
+76,94,5.5,120,107,2359,"Patient reports shortness of breath, chest pain, fatigue, nausea.",amlodipine,hypoxia
+70,92,4.3,114,98,6794,"Patient reports shortness of breath, chest pain, fatigue.",lisinopril,hypertension
+96,91,4.5,124,89,2005,"Patient reports swelling in ankles, irregular heartbeat.",none,healthy
+110,86,5.2,165,77,7190,"Patient reports shortness of breath, blurred vision, headache.",amlodipine,healthy
+76,86,8.3,161,91,1807,"Patient reports dizziness, shortness of breath, nausea.",lisinopril,healthy
+70,98,6.1,173,97,2370,"Patient reports fatigue, dizziness.",amlodipine,hypertension
+111,91,8.2,151,70,1074,"Patient reports irregular heartbeat, nausea, fatigue.",lisinopril,CHF
+64,100,7.2,136,107,1730,"Patient reports nausea, fatigue, blurred vision.",none,CHF
+102,94,7.1,165,95,9162,"Patient reports irregular heartbeat, headache.",metoprolol,CHF
+100,90,4.3,139,86,3207,"Patient reports swelling in ankles, dizziness, headache.",metoprolol,healthy
+92,89,5.3,163,101,4878,"Patient reports blurred vision, dizziness.",none,arrhythmia
+119,94,5.1,116,98,8382,"Patient reports chest pain, nausea, irregular heartbeat.",metoprolol,CHF
+96,86,6.3,141,100,3667,"Patient reports blurred vision, headache, swelling in ankles.",atorvastatin,hypoxia
+69,87,4.5,112,100,8162,"Patient reports swelling in ankles, irregular heartbeat, headache.",atorvastatin,hypoxia
+104,97,6.5,118,83,6023,"Patient reports blurred vision, fatigue, headache.",amlodipine,hypertension
+65,99,6.1,121,83,7225,"Patient reports headache, dizziness, nausea, blurred vision.",atorvastatin,hypoxia
+68,91,5.4,129,101,5691,"Patient reports fatigue, headache, blurred vision.",amlodipine,CHF
+83,93,4.7,139,92,1811,"Patient reports blurred vision, irregular heartbeat, shortness of breath.",metoprolol,hypoxia
+92,89,4.2,155,106,1759,"Patient reports shortness of breath, fatigue.",atorvastatin,hypoxia
+87,86,4.4,139,109,7611,"Patient reports shortness of breath, irregular heartbeat, nausea, fatigue.",atorvastatin,CHF
+76,89,6.7,120,85,2645,"Patient reports irregular heartbeat, chest pain, fatigue.",none,CHF
+84,90,8.2,138,87,3464,"Patient reports shortness of breath, fatigue, blurred vision, irregular heartbeat.",lisinopril,hypoxia
+86,88,5.7,118,71,1094,"Patient reports chest pain, blurred vision.",amlodipine,healthy
+80,89,7.8,168,88,3438,"Patient reports chest pain, shortness of breath.",atorvastatin,CHF
+105,86,5.4,169,74,4121,"Patient reports fatigue, dizziness, swelling in ankles.",atorvastatin,hypoxia
+73,87,6.0,122,98,1378,"Patient reports swelling in ankles, nausea, irregular heartbeat, dizziness.",amlodipine,CHF
+62,96,4.7,169,79,7732,"Patient reports blurred vision, nausea, irregular heartbeat.",atorvastatin,CHF
+112,94,5.9,119,87,5312,"Patient reports blurred vision, nausea, irregular heartbeat, headache.",amlodipine,healthy
+99,100,4.6,152,102,9993,"Patient reports fatigue, swelling in ankles, blurred vision, dizziness.",amlodipine,CHF
+95,93,8.0,156,110,4541,"Patient reports shortness of breath, dizziness, headache, blurred vision.",atorvastatin,CHF
+96,87,6.3,162,90,7186,"Patient reports shortness of breath, dizziness.",atorvastatin,healthy
+105,91,5.7,160,78,9937,"Patient reports swelling in ankles, blurred vision, dizziness, nausea.",atorvastatin,healthy
+70,98,7.5,126,102,2184,"Patient reports swelling in ankles, headache, dizziness, irregular heartbeat.",metoprolol,CHF
+84,89,7.8,114,82,7011,"Patient reports irregular heartbeat, nausea.",metoprolol,hypertension
+116,94,7.4,177,77,6427,"Patient reports swelling in ankles, nausea, headache.",lisinopril,hypertension
+107,91,5.7,153,77,9243,"Patient reports headache, irregular heartbeat, shortness of breath, chest pain.",none,hypoxia
+100,94,6.5,110,95,5495,"Patient reports swelling in ankles, dizziness, shortness of breath.",metoprolol,healthy
+116,96,7.8,169,98,5739,"Patient reports swelling in ankles, dizziness.",atorvastatin,CHF
+110,89,8.5,127,97,5441,"Patient reports nausea, dizziness, fatigue.",atorvastatin,arrhythmia
+98,87,8.4,144,107,3943,"Patient reports chest pain, nausea.",atorvastatin,healthy
+64,92,4.8,112,77,6702,"Patient reports dizziness, shortness of breath.",atorvastatin,arrhythmia
+96,87,7.5,132,109,3888,"Patient reports irregular heartbeat, fatigue, blurred vision.",lisinopril,hypertension
+75,86,7.1,153,73,8587,"Patient reports headache, fatigue.",atorvastatin,healthy
+89,93,6.8,167,77,5316,"Patient reports nausea, chest pain, irregular heartbeat.",none,healthy
+114,87,5.2,118,79,4219,"Patient reports irregular heartbeat, fatigue, blurred vision.",amlodipine,hypertension
+95,91,5.2,147,86,9691,"Patient reports swelling in ankles, nausea, dizziness, headache.",none,healthy
+103,92,8.0,111,84,3315,"Patient reports nausea, dizziness, headache, swelling in ankles.",metoprolol,arrhythmia
+76,88,5.6,129,77,6287,"Patient reports chest pain, shortness of breath.",none,hypertension
+62,85,4.3,179,105,8251,"Patient reports blurred vision, nausea, dizziness, swelling in ankles.",lisinopril,healthy
+94,90,7.5,133,79,3706,"Patient reports dizziness, blurred vision, fatigue, headache.",atorvastatin,healthy
+64,90,6.1,131,87,9547,"Patient reports fatigue, headache, blurred vision.",amlodipine,hypertension
+96,100,6.2,151,106,9655,"Patient reports dizziness, fatigue.",atorvastatin,healthy
+66,92,6.4,162,91,5345,"Patient reports fatigue, headache, swelling in ankles, blurred vision.",amlodipine,CHF
+110,85,6.5,140,75,6512,"Patient reports dizziness, fatigue, shortness of breath.",none,hypoxia
+102,86,6.8,137,86,8371,"Patient reports swelling in ankles, irregular heartbeat, chest pain, dizziness.",lisinopril,hypoxia
+76,93,7.5,164,102,8045,"Patient reports swelling in ankles, fatigue, irregular heartbeat, dizziness.",metoprolol,arrhythmia
+72,98,5.5,179,93,3783,"Patient reports shortness of breath, headache.",amlodipine,hypertension
+100,95,8.1,178,85,3170,"Patient reports dizziness, fatigue.",none,hypertension
+70,91,6.8,116,94,9523,"Patient reports headache, dizziness, blurred vision, nausea.",metoprolol,hypoxia
+107,85,5.4,149,99,3173,"Patient reports nausea, blurred vision, dizziness.",atorvastatin,arrhythmia
+91,100,7.6,148,102,6910,"Patient reports swelling in ankles, dizziness.",metoprolol,healthy
+76,88,4.4,128,79,5114,"Patient reports irregular heartbeat, swelling in ankles, nausea, blurred vision.",lisinopril,hypoxia
+91,92,6.2,161,96,6267,"Patient reports headache, fatigue.",amlodipine,hypertension
+97,90,7.0,152,90,9201,"Patient reports headache, nausea, blurred vision, irregular heartbeat.",lisinopril,arrhythmia
+84,98,4.6,165,70,6785,"Patient reports dizziness, nausea, fatigue.",none,healthy
+106,89,7.8,157,105,9055,"Patient reports blurred vision, swelling in ankles.",atorvastatin,hypertension
+60,91,6.3,159,90,2795,"Patient reports nausea, headache, dizziness.",metoprolol,hypertension
+66,94,6.8,118,82,6312,"Patient reports irregular heartbeat, blurred vision, chest pain.",atorvastatin,CHF
+109,93,4.8,137,81,7511,"Patient reports blurred vision, fatigue, irregular heartbeat.",lisinopril,arrhythmia
+97,86,5.8,150,105,1070,"Patient reports swelling in ankles, fatigue, nausea, shortness of breath.",atorvastatin,hypoxia
+119,94,4.6,159,93,8938,"Patient reports blurred vision, headache, nausea.",none,CHF
+112,100,4.3,113,89,5963,"Patient reports nausea, fatigue.",atorvastatin,hypoxia
+80,93,8.0,125,101,4154,"Patient reports nausea, blurred vision.",lisinopril,hypoxia
+97,89,7.9,178,76,7972,"Patient reports swelling in ankles, nausea.",none,healthy
+95,100,4.0,167,92,1145,"Patient reports shortness of breath, fatigue.",amlodipine,hypoxia
+101,87,5.4,164,85,9925,"Patient reports irregular heartbeat, headache, fatigue, dizziness.",amlodipine,CHF
+64,89,7.3,143,108,1146,"Patient reports fatigue, blurred vision.",metoprolol,hypertension
+100,85,6.2,121,90,4143,"Patient reports dizziness, blurred vision, fatigue, nausea.",lisinopril,hypertension
+63,96,4.9,154,86,6555,"Patient reports chest pain, irregular heartbeat, fatigue, shortness of breath.",atorvastatin,hypertension
+93,86,5.2,110,94,5844,"Patient reports dizziness, nausea, shortness of breath.",metoprolol,healthy
+89,97,5.3,155,82,8146,"Patient reports swelling in ankles, irregular heartbeat.",lisinopril,CHF
+109,94,4.5,149,105,8469,"Patient reports chest pain, shortness of breath.",atorvastatin,hypertension
+110,90,6.4,173,94,5537,"Patient reports swelling in ankles, headache.",amlodipine,hypoxia
+71,100,7.9,174,99,5581,"Patient reports nausea, fatigue, dizziness, chest pain.",none,CHF
+69,100,6.2,150,88,4068,"Patient reports shortness of breath, dizziness.",metoprolol,arrhythmia
+87,95,5.3,153,91,7640,"Patient reports shortness of breath, blurred vision, fatigue, nausea.",atorvastatin,hypoxia
+117,93,6.3,171,71,9576,"Patient reports chest pain, headache.",none,hypoxia
+104,92,6.8,176,76,7575,"Patient reports headache, shortness of breath, fatigue.",lisinopril,CHF
+65,88,8.1,157,72,3090,"Patient reports irregular heartbeat, shortness of breath, dizziness, fatigue.",amlodipine,arrhythmia
+85,93,4.7,165,72,9876,"Patient reports headache, nausea, shortness of breath, fatigue.",amlodipine,hypertension
+84,100,5.1,163,95,2530,"Patient reports irregular heartbeat, shortness of breath, chest pain.",atorvastatin,arrhythmia
+81,89,7.6,121,87,4297,"Patient reports blurred vision, headache, dizziness.",lisinopril,CHF
+88,100,5.1,161,91,5239,"Patient reports shortness of breath, swelling in ankles, nausea, fatigue.",lisinopril,arrhythmia
+115,85,5.9,136,106,1436,"Patient reports nausea, dizziness.",atorvastatin,hypoxia
+73,96,6.3,168,88,3796,"Patient reports shortness of breath, chest pain.",lisinopril,hypoxia
+73,99,6.7,129,109,3329,"Patient reports swelling in ankles, chest pain, shortness of breath.",lisinopril,arrhythmia
+99,98,4.7,141,93,2734,"Patient reports dizziness, swelling in ankles.",metoprolol,arrhythmia
+66,87,7.0,169,102,3593,"Patient reports fatigue, headache, swelling in ankles.",metoprolol,healthy
+101,86,5.4,168,105,6244,"Patient reports blurred vision, dizziness, shortness of breath.",none,CHF
+94,94,8.5,163,95,9783,"Patient reports dizziness, blurred vision, fatigue, irregular heartbeat.",none,arrhythmia
+111,96,4.8,115,97,6217,"Patient reports dizziness, fatigue, chest pain, blurred vision.",metoprolol,arrhythmia
+79,90,4.5,116,90,2739,"Patient reports headache, shortness of breath.",metoprolol,healthy
+71,88,4.7,180,109,7534,"Patient reports headache, dizziness, swelling in ankles.",lisinopril,arrhythmia
+79,98,7.5,142,104,2094,"Patient reports chest pain, irregular heartbeat, fatigue, blurred vision.",amlodipine,hypertension
+91,94,5.5,148,101,8111,"Patient reports nausea, blurred vision, shortness of breath, chest pain.",none,arrhythmia
+110,100,7.4,137,99,2769,"Patient reports fatigue, dizziness, nausea.",lisinopril,CHF
+105,99,7.0,159,70,2645,"Patient reports fatigue, blurred vision, shortness of breath, nausea.",amlodipine,hypoxia
+84,97,4.1,173,104,5309,"Patient reports fatigue, blurred vision, shortness of breath.",atorvastatin,hypoxia
+81,97,5.6,155,79,7171,"Patient reports nausea, irregular heartbeat, shortness of breath, fatigue.",lisinopril,hypoxia
+77,99,5.5,132,78,4226,"Patient reports headache, chest pain.",metoprolol,hypertension
+118,97,8.4,164,71,1638,"Patient reports chest pain, nausea, headache.",atorvastatin,CHF
+63,86,6.4,119,73,9934,"Patient reports irregular heartbeat, shortness of breath.",lisinopril,CHF
+89,91,4.2,137,93,2497,"Patient reports dizziness, headache, swelling in ankles.",amlodipine,hypertension
+114,88,8.3,110,106,1588,"Patient reports headache, nausea, chest pain.",metoprolol,healthy
+107,90,7.6,146,107,4572,"Patient reports headache, chest pain.",atorvastatin,CHF
+73,100,5.0,175,92,2874,"Patient reports irregular heartbeat, blurred vision.",atorvastatin,hypoxia
+101,95,6.2,148,73,6601,"Patient reports irregular heartbeat, chest pain, nausea, blurred vision.",amlodipine,CHF
+96,93,6.0,165,106,8599,"Patient reports dizziness, fatigue, nausea.",metoprolol,hypoxia
+88,96,7.3,142,71,5097,"Patient reports fatigue, shortness of breath.",metoprolol,hypertension
+74,91,6.3,171,95,1068,"Patient reports irregular heartbeat, headache, shortness of breath.",amlodipine,CHF
+65,85,8.0,138,77,1838,"Patient reports dizziness, irregular heartbeat, chest pain, shortness of breath.",amlodipine,healthy
+87,87,6.6,129,98,5072,"Patient reports nausea, swelling in ankles.",lisinopril,hypoxia
+66,88,5.0,157,83,1911,"Patient reports fatigue, blurred vision.",metoprolol,hypoxia
+76,90,8.4,174,99,5283,"Patient reports blurred vision, swelling in ankles, irregular heartbeat, fatigue.",metoprolol,healthy
+106,86,8.2,133,76,2943,"Patient reports headache, swelling in ankles, irregular heartbeat, fatigue.",lisinopril,hypoxia
+86,94,8.4,164,85,3597,"Patient reports headache, swelling in ankles.",amlodipine,healthy
+60,89,5.4,130,79,2109,"Patient reports nausea, headache, shortness of breath, chest pain.",atorvastatin,CHF
+96,96,8.1,134,107,7477,"Patient reports chest pain, shortness of breath, irregular heartbeat.",atorvastatin,arrhythmia
+91,92,5.5,136,75,9012,"Patient reports chest pain, dizziness.",metoprolol,hypertension
+120,87,7.2,112,89,2287,"Patient reports nausea, shortness of breath.",none,healthy
+76,91,7.9,139,94,8112,"Patient reports dizziness, fatigue.",lisinopril,arrhythmia
+68,94,4.8,128,105,8735,"Patient reports shortness of breath, chest pain, irregular heartbeat, dizziness.",none,hypoxia
+101,96,4.8,110,75,5281,"Patient reports shortness of breath, chest pain, blurred vision, irregular heartbeat.",metoprolol,arrhythmia
+98,88,7.6,157,96,3069,"Patient reports blurred vision, nausea, swelling in ankles.",atorvastatin,healthy
+117,90,6.2,126,73,9426,"Patient reports headache, chest pain, dizziness, nausea.",lisinopril,arrhythmia
+79,86,6.5,117,83,9718,"Patient reports nausea, shortness of breath.",amlodipine,arrhythmia
+103,87,6.0,175,104,6102,"Patient reports chest pain, dizziness, irregular heartbeat.",none,hypoxia
+98,93,5.7,145,105,9021,"Patient reports chest pain, blurred vision, shortness of breath, dizziness.",none,hypertension
+98,85,6.3,123,94,1082,"Patient reports blurred vision, dizziness.",amlodipine,hypertension
+106,90,4.2,116,100,4260,"Patient reports shortness of breath, fatigue.",lisinopril,hypertension
+67,88,5.6,139,75,9756,"Patient reports irregular heartbeat, chest pain.",lisinopril,hypertension
+71,90,4.0,145,108,4261,"Patient reports chest pain, nausea.",metoprolol,hypertension
+109,94,7.5,121,76,2641,"Patient reports swelling in ankles, blurred vision.",amlodipine,hypoxia
+106,86,5.2,170,105,7801,"Patient reports blurred vision, nausea, irregular heartbeat.",atorvastatin,CHF
+84,95,4.6,170,96,9080,"Patient reports dizziness, swelling in ankles, chest pain.",amlodipine,hypertension
+107,88,7.0,176,72,7197,"Patient reports swelling in ankles, dizziness.",lisinopril,healthy
+83,88,8.4,148,95,8681,"Patient reports shortness of breath, swelling in ankles, irregular heartbeat.",lisinopril,hypoxia
+102,100,4.5,154,83,1065,"Patient reports headache, shortness of breath, blurred vision.",lisinopril,arrhythmia
+71,86,4.6,116,98,3760,"Patient reports chest pain, swelling in ankles.",atorvastatin,CHF
+97,97,5.2,129,88,5614,"Patient reports shortness of breath, fatigue, swelling in ankles, blurred vision.",metoprolol,CHF
+76,87,4.0,166,89,2679,"Patient reports chest pain, fatigue.",metoprolol,arrhythmia
+115,95,6.6,123,98,1268,"Patient reports blurred vision, swelling in ankles, fatigue.",metoprolol,hypertension
+77,86,6.3,112,95,8212,"Patient reports headache, dizziness.",atorvastatin,hypoxia
+107,86,5.7,113,88,3952,"Patient reports nausea, fatigue, dizziness.",none,healthy
+105,100,6.1,136,89,9440,"Patient reports headache, nausea, dizziness, chest pain.",amlodipine,hypertension
+64,95,7.1,131,72,6188,"Patient reports dizziness, fatigue, swelling in ankles, nausea.",atorvastatin,CHF
+98,98,7.6,169,73,4832,"Patient reports nausea, shortness of breath, swelling in ankles, blurred vision.",lisinopril,healthy
+91,97,5.9,126,77,7587,"Patient reports shortness of breath, irregular heartbeat, swelling in ankles, chest pain.",atorvastatin,CHF
+96,94,5.7,154,72,2229,"Patient reports fatigue, nausea, dizziness.",amlodipine,hypoxia
+108,96,4.6,128,99,8338,"Patient reports nausea, blurred vision.",none,CHF
+88,87,4.9,167,97,1767,"Patient reports chest pain, swelling in ankles.",amlodipine,hypoxia
+103,86,6.1,163,80,1662,"Patient reports dizziness, nausea.",metoprolol,arrhythmia
+107,86,6.2,153,81,6211,"Patient reports swelling in ankles, headache.",none,hypertension
+100,89,8.3,153,100,7965,"Patient reports shortness of breath, irregular heartbeat, blurred vision.",metoprolol,arrhythmia
+80,90,7.9,164,80,3679,"Patient reports irregular heartbeat, nausea, headache, dizziness.",atorvastatin,healthy
+69,89,7.6,173,90,1754,"Patient reports headache, blurred vision.",lisinopril,hypoxia
+90,97,6.5,131,85,9323,"Patient reports shortness of breath, dizziness.",none,hypoxia
+88,86,5.7,120,81,5354,"Patient reports shortness of breath, dizziness, swelling in ankles.",none,arrhythmia
+76,87,6.4,125,110,1696,"Patient reports chest pain, fatigue.",amlodipine,hypertension
+119,93,5.2,175,89,1390,"Patient reports blurred vision, dizziness.",none,CHF
+61,97,4.6,180,70,1749,"Patient reports headache, swelling in ankles, shortness of breath, dizziness.",atorvastatin,healthy
+115,92,8.4,162,82,2846,"Patient reports swelling in ankles, blurred vision, fatigue, nausea.",lisinopril,hypoxia
+61,99,4.1,120,78,1394,"Patient reports shortness of breath, headache, dizziness, blurred vision.",lisinopril,healthy
+96,96,4.4,149,96,9330,"Patient reports dizziness, chest pain, fatigue.",metoprolol,hypertension
+96,89,7.8,180,74,5573,"Patient reports dizziness, chest pain.",metoprolol,hypertension
+86,94,5.8,137,97,4763,"Patient reports headache, dizziness, blurred vision.",atorvastatin,CHF
+93,85,4.6,111,106,6620,"Patient reports irregular heartbeat, fatigue, swelling in ankles, headache.",metoprolol,healthy
+107,96,5.6,162,80,9078,"Patient reports irregular heartbeat, blurred vision.",amlodipine,healthy
+66,99,4.5,165,96,5739,"Patient reports fatigue, shortness of breath, headache, irregular heartbeat.",none,arrhythmia
+114,91,7.0,114,79,7679,"Patient reports nausea, dizziness.",lisinopril,CHF
+67,96,4.2,130,75,5056,"Patient reports chest pain, nausea, headache.",atorvastatin,CHF
+99,97,5.6,135,93,4518,"Patient reports headache, dizziness, chest pain, shortness of breath.",atorvastatin,CHF
+109,93,4.8,144,86,7653,"Patient reports fatigue, nausea, irregular heartbeat.",none,healthy
+90,97,6.1,115,95,3651,"Patient reports chest pain, headache, dizziness.",metoprolol,CHF
+71,96,5.7,111,96,7519,"Patient reports dizziness, nausea, headache.",lisinopril,arrhythmia
+87,96,6.3,145,90,8765,"Patient reports chest pain, fatigue, irregular heartbeat, shortness of breath.",lisinopril,arrhythmia
+99,97,5.7,144,101,9837,"Patient reports irregular heartbeat, fatigue, swelling in ankles, headache.",amlodipine,CHF
+60,94,8.5,115,103,5966,"Patient reports headache, nausea, dizziness.",lisinopril,arrhythmia
+70,98,6.6,172,110,9446,"Patient reports irregular heartbeat, shortness of breath, nausea.",metoprolol,CHF
+93,91,6.1,163,110,8583,"Patient reports fatigue, swelling in ankles.",metoprolol,arrhythmia
+112,92,5.5,139,79,9439,"Patient reports blurred vision, headache.",atorvastatin,arrhythmia
+88,87,7.0,117,89,2583,"Patient reports fatigue, headache, irregular heartbeat, nausea.",lisinopril,arrhythmia
+70,87,8.3,127,79,3475,"Patient reports shortness of breath, swelling in ankles, irregular heartbeat, chest pain.",metoprolol,hypoxia
+90,96,7.1,137,98,7987,"Patient reports shortness of breath, swelling in ankles, chest pain, headache.",metoprolol,healthy
+79,92,8.0,146,77,4144,"Patient reports irregular heartbeat, blurred vision, swelling in ankles, nausea.",atorvastatin,hypertension
+73,96,7.3,110,74,3307,"Patient reports irregular heartbeat, fatigue, blurred vision, shortness of breath.",lisinopril,arrhythmia
+84,86,5.0,144,93,3778,"Patient reports swelling in ankles, chest pain.",amlodipine,hypertension
+75,95,4.7,137,92,6447,"Patient reports nausea, shortness of breath.",amlodipine,arrhythmia
+100,88,5.9,157,103,5290,"Patient reports irregular heartbeat, headache, blurred vision.",lisinopril,healthy
+100,88,8.4,141,98,2406,"Patient reports dizziness, blurred vision.",atorvastatin,healthy
+105,91,7.9,171,100,4093,"Patient reports headache, shortness of breath, chest pain, nausea.",lisinopril,arrhythmia
+114,96,8.4,171,90,8627,"Patient reports blurred vision, chest pain, irregular heartbeat.",amlodipine,hypoxia
+87,89,5.8,153,108,3313,"Patient reports nausea, blurred vision, shortness of breath, dizziness.",metoprolol,hypertension
+84,99,6.3,153,73,9398,"Patient reports fatigue, swelling in ankles.",atorvastatin,CHF
+88,90,4.3,127,101,4576,"Patient reports fatigue, blurred vision, irregular heartbeat, chest pain.",atorvastatin,CHF
+117,97,8.1,156,90,1439,"Patient reports irregular heartbeat, chest pain.",metoprolol,healthy
+120,96,5.0,117,80,5835,"Patient reports irregular heartbeat, fatigue.",amlodipine,arrhythmia
+60,95,4.9,141,97,4984,"Patient reports swelling in ankles, headache, chest pain, dizziness.",lisinopril,hypertension
+76,93,4.4,144,109,7868,"Patient reports blurred vision, fatigue.",metoprolol,hypertension
+79,93,4.3,137,97,6818,"Patient reports headache, nausea, fatigue.",atorvastatin,CHF
+80,100,8.0,129,73,2479,"Patient reports nausea, shortness of breath, headache.",none,CHF
+93,88,5.5,146,103,6306,"Patient reports shortness of breath, swelling in ankles, chest pain.",atorvastatin,healthy
+68,91,5.9,149,74,2619,"Patient reports nausea, chest pain, swelling in ankles.",metoprolol,healthy
+106,86,4.8,143,109,1195,"Patient reports shortness of breath, swelling in ankles, blurred vision, nausea.",none,CHF
+120,90,6.3,122,84,2520,"Patient reports shortness of breath, chest pain, dizziness.",lisinopril,healthy
+100,88,4.4,132,87,5344,"Patient reports chest pain, fatigue.",metoprolol,hypoxia
+92,95,8.3,165,82,5459,"Patient reports nausea, swelling in ankles.",metoprolol,arrhythmia
+67,85,7.3,176,74,8465,"Patient reports headache, swelling in ankles, fatigue, dizziness.",atorvastatin,arrhythmia
+117,96,7.3,143,107,6365,"Patient reports headache, nausea, chest pain, swelling in ankles.",amlodipine,CHF
+93,98,7.7,124,82,3956,"Patient reports chest pain, nausea, fatigue, irregular heartbeat.",lisinopril,hypoxia
+83,92,5.2,136,107,3414,"Patient reports chest pain, irregular heartbeat, fatigue.",none,hypertension
+108,91,7.8,116,106,5562,"Patient reports shortness of breath, dizziness, headache.",none,arrhythmia
+111,88,4.8,154,89,4751,"Patient reports blurred vision, chest pain.",lisinopril,hypoxia
+93,99,7.8,110,81,5127,"Patient reports headache, blurred vision, swelling in ankles.",amlodipine,hypoxia
+69,85,7.7,116,77,5234,"Patient reports dizziness, irregular heartbeat, fatigue, blurred vision.",lisinopril,arrhythmia
+71,89,7.6,137,92,7758,"Patient reports chest pain, dizziness, nausea, irregular heartbeat.",amlodipine,hypoxia
+100,97,7.5,157,109,2258,"Patient reports shortness of breath, irregular heartbeat, swelling in ankles, chest pain.",none,arrhythmia
+110,93,5.9,123,84,9466,"Patient reports chest pain, swelling in ankles.",metoprolol,arrhythmia
+104,98,4.8,175,92,5721,"Patient reports dizziness, headache, nausea, irregular heartbeat.",none,arrhythmia
+66,88,8.5,112,81,8321,"Patient reports swelling in ankles, headache, dizziness.",atorvastatin,healthy
+114,92,6.7,176,76,2400,"Patient reports blurred vision, swelling in ankles, irregular heartbeat.",lisinopril,CHF
+116,95,5.6,111,105,4280,"Patient reports shortness of breath, swelling in ankles, dizziness, chest pain.",metoprolol,arrhythmia

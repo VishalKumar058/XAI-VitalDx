@@ -1,0 +1,83 @@
+<!-- <h2>Welcome {{ username }}</h2>
+<a href="/">Go to Prediction Page</a><br>
+<a href="/logout">Logout</a> -->
+
+
+
+
+<!-- after adding styling -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard | XAI-VitalDx</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #f0f2f5;
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            background: #4e4376;
+            padding: 15px;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .container {
+            margin: 40px auto;
+            max-width: 600px;
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #4e4376;
+            color: white;
+            text-decoration: none;
+            padding: 12px 25px;
+            border-radius: 8px;
+            margin-top: 20px;
+            font-size: 16px;
+        }
+
+        .btn:hover {
+            background: #2b5876;
+        }
+
+        .logout {
+            background: #b83232;
+        }
+
+        .logout:hover {
+            background: #8c1f1f;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        XAI-VitalDx Dashboard
+    </div>
+
+    <div class="container">
+        <h2>Welcome, {{ username }} 👋</h2>
+
+        <p>Your personalized AI health prediction system</p>
+
+        <a href="/" class="btn">Go to Prediction Page</a><br><br>
+
+        <a href="/logout" class="btn logout">Logout</a>
+    </div>
+
+</body>
+</html>
